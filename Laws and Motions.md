@@ -1,9 +1,9 @@
-#**East Antarctic Research Corporation Laws and Motions**
+# **East Antarctic Research Corporation Laws and Motions**
 
 
-#**Article 1: East Antarctic Research Corporation**
+# **Article 1: East Antarctic Research Corporation**
 
-##**Section 1: Definitions**
+## **Section 1: Definitions**
 **The Overwatch:** The highest ranking personnel within the East Antarctic Research Corporation. Laws and motions do not apply to them. Ranked CL-X.
 
 **Department Overwatch:** The highest ranking personnel within a department. Usually ranking CL-O.
