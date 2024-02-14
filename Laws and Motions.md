@@ -39,11 +39,11 @@
 
 *a) All corporation documents and laws are visible to personnel unless aforementioned below.*
 
-*i) Documents may be restricted to certain departments and/or clearance levels for said document. A document may also be restricted if it contains need-to-know information for certain departments.*
+  *i) Documents may be restricted to certain departments and/or clearance levels for said document. A document may also be restricted if it contains need-to-know information for certain departments.*
 
-*ii) Members of The Overwatch may grant authorization to view documents otherwise inaccessible to that clearance level or department.**
+  *ii) Members of The Overwatch may grant authorization to view documents otherwise inaccessible to that clearance level or department.**
 
-*iii) Documents may be temporarily restricted or partially restricted by The Overwatch for any reason.*
+  *iii) Documents may be temporarily restricted or partially restricted by The Overwatch for any reason.*
 
 3) CL-E CLASSIFICATION
 
@@ -57,13 +57,13 @@
 
 *c) Department of Security personnel ranking “Security Supervisor” through “Security Captain.”*
 
-*i) Emergency Response Team personnel ranking “Sergeant” through “Task Force Leader.”*
+  *i) Emergency Response Team personnel ranking “Sergeant” through “Task Force Leader.”*
 
-*ii) Biohazard Containment Unit personnel ranking “Senior Containment Specialist” through “Containment Manager.”*
+  *ii) Biohazard Containment Unit personnel ranking “Senior Containment Specialist” through “Containment Manager.”*
 
-*iii) Command Protection Unit personnel ranking “Elite Guardian” through “Supervisor.”*
+  *iii) Command Protection Unit personnel ranking “Elite Guardian” through “Supervisor.”*
 
-*d) Department of Research personnel ranking “Expert Researcher” through “Head Researcher.”*
+  *d) Department of Research personnel ranking “Expert Researcher” through “Head Researcher.”*
 
 *e) Department of Affairs personnel ranking “Ambassador” through “Administration Representative.”*
 
