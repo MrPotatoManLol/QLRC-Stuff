@@ -116,7 +116,16 @@
 
 ## **Section 1 - Overwall Conduct**
 
-1. RESPECT, PROFESSIONALISM, AND INSTIGATION
+1) RESPECT, PROFESSIONALISM, AND INSTIGATION
 
 *a) All personnel are expected to treat each other with respect, and with no discrimination or exceptions.*
 
+*b) Personnel are to stay mature and professional while on-site.*
+
+*c) Remarks made in a hurtful and/or offensive tone are prohibited.*
+
+*d) Slander of departments in any way is covered by this clause.*
+
+*e) All personnel are prohibited from encouraging others to breach any clause within the Articles of Service.*
+
+2)
