@@ -114,7 +114,7 @@
 
 # **Article 2: Code of Conduct**
 
-## **Section 1 - Overwall Conduct**
+## **Section 1 - Overall Conduct**
 
 1) RESPECT, PROFESSIONALISM, AND INSTIGATION
 
@@ -128,4 +128,66 @@
 
 *e) All personnel are prohibited from encouraging others to breach any clause within the Articles of Service.*
 
-2)
+2) ACCESS TO RESTRICTED MATERIAL
+
+*a) Discussion, hinting, and distribution of restricted material is strictly prohibited in any area where personnel without access to said material are located or could be present.*
+
+3) OBSTRUCTION OF JUSTICE, COOPERATION, AND FALSE REPORTS
+
+*a) If a violation of the Articles of Service is witnessed, any personnel who witnessed the violation are to report it to the Department of Administration*
+
+*b) All personnel receiving an inquiry regarding any case must respond accurately with their side of the story, and provide all possible available evidence.*
+
+*c) Personnel may not file a false report against an individual, claim to be a witness in an infraction, or forge any evidence to a case.*
+
+*d) Personnel may not abstain from questioning to either protect the infractor or intent to cause defamation.*
+
+*e) Personnel caught fabricating false reports on departmental personnel are subject to disciplinary action.*
+
+4) IMPERSONATION AND FALSE INFORMATION
+
+*a) All personnel are forbidden from directly or indirectly impersonating any personnel or hostile force within any corporation site or communication server.*
+
+*i) Wearing an official, or something closely resembling the uniform of a department without being a member of said department.*
+
+*ii) Information another corporation member that you are a member of a department when you are not.*
+
+*iii) Enacting on behalf of a department or individual, without explicit, undeniable permission given by the department's high command, or individual respectively.
+
+*b) Personnel may not use false information for personal gain; in any way that changes the outcome of said action; or to give themselves the authority to do things they cannot otherwise do.*
+
+5) COOPERATION WITH HOSTILE FORCES AND CORRUPTION
+
+*a) All personnel are prohibited from cooperating with any hostile force member.*
+
+*b) Bribery is strictly prohibited under any circumstances.*
+
+*i) "Bribery" is defined as "to dishonestly persuade to act in one's favor by anything of monetary value."
+
+*c) Dishonest conduct or abuse of power for one’s personal gain is prohibited.*
+
+
+
+## **Section 2 - On-site Behavior**
+
+1) TRESPASSING AND INSUBORDINATION
+
+*a) "Trespassing” is defined as: attempting to, loitering around, or succeeding in, gaining access to a location to which one, given currently assigned team, clearance, and (when applicable) department rank, do not have access to.*
+
+*i) Personnel may not trespass into locations to which said personnel do not have access to.*
+
+2) IMPEDING DUTIES AND DETAIN EVASION
+
+*a) All personnel are not allowed to attempt to, or succeed in, directly or indirectly impeding another personnel's duties.*
+
+*b) Personnel being detained by the Department of Regulations may not evade or attempt to evade being detained.*
+
+*i) Detain evasion is any attempt or successful attempt in being un-detained without the original detain user undetaining you.*
+
+3) RADIO MISUSE
+
+*a) Misuse of the radio is prohibited, which includes but is not limited to:*
+
+*i) Clogging radio with unnecessary chatter or radio ‘spamming’.*
+
+*ii) Exceptions to this can be made if the person in question was unaware they had the radio out at the time of the message.*
