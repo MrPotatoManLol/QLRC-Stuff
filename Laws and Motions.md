@@ -18,7 +18,7 @@
 
 **Security Personnel:** Personnel within the Department of Security or a Task Force within the department.
 
-**Regulations Personnel:** Personnel within the Department of Regulations.
+**Regulations Personnel:** Personnel within the Department of Regulations (staff).
 
 
 
