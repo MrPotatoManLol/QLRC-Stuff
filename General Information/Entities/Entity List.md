@@ -1,5 +1,2 @@
-| Entity        | File Status   | Level  |
-|:-------------:|:-------------:|:------:|
-| col 3 is      | - [X] Yes        |  GREEN |
-| col 2 is      | centered      |        |
-| zebra stripes | are neat      |        |
+**Entity**    |    **Level**    |    **File Status**
+001           |       N/A       |        N/A
