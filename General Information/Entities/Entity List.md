@@ -2,7 +2,7 @@
 |:-------------:|:-------------:|:------:|
 | 001           | N/A           | N/A    |
 | 002           | [COMPLETED](https://github.com/MrPotatoManLol/EARC-Stuff/blob/b19982af26abf52cf28574be94c719197c1b4ac2/General%20Information/Entities/Green/002.md)     | GREEN  |
-| 003           | COMPLETED     | ORANGE |
+| 003           | [COMPLETED](https://github.com/MrPotatoManLol/EARC-Stuff/blob/82fe1755618c95e21fc7fca7bf030a067d530b7e/General%20Information/Entities/Orange/003.md)     | ORANGE |
 | 004           | IN PROGRESS   | GREEN  |
 | 005           | INCOMPLETE    | GREEN  |
 | 006           | INCOMPLETE    | ORANGE |
