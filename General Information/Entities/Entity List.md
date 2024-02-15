@@ -1,7 +1,7 @@
 | Entity        | File Status   | Level  |
 |:-------------:|:-------------:|:------:|
 | 001           | N/A           | N/A    |
-| 002           | [COMPLETED] (https://github.com/MrPotatoManLol/EARC-Stuff/blob/b19982af26abf52cf28574be94c719197c1b4ac2/General%20Information/Entities/Green/002.md)     | GREEN  |
+| 002           | [COMPLETED](https://github.com/MrPotatoManLol/EARC-Stuff/blob/b19982af26abf52cf28574be94c719197c1b4ac2/General%20Information/Entities/Green/002.md)     | GREEN  |
 | 003           | COMPLETED     | ORANGE |
 | 004           | IN PROGRESS   | GREEN  |
 | 005           | INCOMPLETE    | GREEN  |
