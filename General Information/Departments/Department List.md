@@ -1,6 +1,6 @@
 ## Staff/Tester Departments
 
-| **Department/Ranks** | **Cost** | **Class** | **XP Required** | **Abbr.** |
+| **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |---|---|---|---|---|
 | **Department of Regulations** | **Staff Only** |  |  |  |
 | Trainee Reguations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
@@ -12,7 +12,7 @@
 | Development Team |  | **CL-X** | **Reserved** | **N/A** |
 | Chief Executive Officer |  | **CL-X** | **Reserved** | **N/A** |
 
-| **Department/Ranks** | **Cost** | **Class** | **XP Required** | **Abbr.** |
+| **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |---|---|---|---|---|
 | **Department of Engineering** | **Testers Only** |  |  |  |
 | Apprentice |  | **CL-X** | **N/A** | **N/A** |
@@ -25,7 +25,7 @@
 
 ## Civil Departments
 
-| **Department/Ranks** | **Cost** | **Class** | **XP Required** | **Abbr.** |
+| **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |---|---|---|---|---|
 | **Department of Administration** | **35000 Credits/1500 R$** |  |  |  |
 | Junior Administrator |  | **CL-4** | **0** | **JA** |
