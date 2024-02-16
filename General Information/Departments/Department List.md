@@ -60,6 +60,7 @@
 | Director of Research |  | **CL-O** | **Overwatch Gamepass** | **O-4** |
 
 ## Combative Departments
+
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
 | **Facility Security** | **Free** |  |  |  |
@@ -101,4 +102,29 @@
 | Supervisor |  | **CL-4** | **55000** | **U-6** |
 | Executive Director |  | **CL-5** | **80000** | **ED** |
 | Director |  | **CL-5** | **120000** | **D** |
+
+## Hostile
+
+| **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
+|:---:|:---:|:---:|:---:|:---:|
+| **Hostile Forces** | **14000 Credits/800 R$** |  |  |  |
+| Recruit |  | **CL-2** | **0** | **E-1** |
+| Mercenary |  | **CL-2** | **3500** | **E-2** |
+| Junior Contractor |  | **CL-3** | **7000** | **E-3** |
+| Contractor |  | **CL-3** | **15000** | **E-4** |
+| Junior Insurgent |  | **CL-3** | **28000** | **E-5** |
+| Insurgent |  | **CL-4** | **45000** | **E-6** |
+| Senior Insurgent |  | **CL-4** | **60000** | **E-7** |
+| Force Manager |  | **CL-5** | **80000** | **O-1** |
+| Force Commander |  | **CL-5** | **120000** | **O-2** |
+| Hostile Overwatch |  | **CL-O** | **Overwatch Gamepass** | **HM** |
+|  |  |  |  |  |
+| **Research Subject** | **Free** |  |  |  |
+| Newcomer |  | **CL-0** | **0** | **N/A** |
+| Regular Subject |  | **CL-0** | **2000** | **N/A** |
+| Adept Subject |  | **CL-1** | **3500** | **N/A** |
+| Experienced Subject |  | **CL-1** | **6000** | **N/A** |
+| Veteran Subject |  | **CL-1** | **12000** | **N/A** |
+| Elite Subject |  | **CL-2** | **25000** | **N/A** |
+| Kingpin |  | **CL-2** | **Overwatch Gamepass** | **N/A** |
 |  |  |  |  |  |
