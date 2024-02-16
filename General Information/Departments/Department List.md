@@ -1,7 +1,7 @@
 ## Staff/Tester Departments
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | **Department of Regulations** | **Staff Only** |  |  |  |
 | Trainee Reguations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
 | Junior Regulations Official |  | **CL-X** | **Mod** | **N/A** |
@@ -13,7 +13,7 @@
 | Chief Executive Officer |  | **CL-X** | **Reserved** | **N/A** |
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | **Department of Engineering** | **Testers Only** |  |  |  |
 | Apprentice |  | **CL-X** | **N/A** | **N/A** |
 | Junior Engineer |  | **CL-X** | **N/A** | **N/A** |
@@ -26,7 +26,7 @@
 ## Civil Departments
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
-|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|
 | **Department of Administration** | **35000 Credits/1500 R$** |  |  |  |
 | Junior Administrator |  | **CL-4** | **0** | **JA** |
 | Facility Administrator |  | **CL-4** | **5000** | **FA** |
@@ -58,3 +58,28 @@
 | Head Researcher |  | **CL-5** | **80000** | **HR** |
 | Executive Director |  | **CL-5** | **120000** | **ED** |
 | Director of Research |  | **CL-O** | **Overwatch Gamepass** | **O-4** |
+
+## Combative Departments
+| **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
+|:---:|:---:|:---:|:---:|:---:|
+| **Facility Security** | **Free** |  |  |  |
+| Cadet |  | **CL-2** | **0** | **SC-1** |
+| Junior Guard |  | **CL-2** | **3000** | **SC-2** |
+| Guard |  | **CL-2** | **6000** | **SC-3** |
+| Senior Guard |  | **CL-3** | **12000** | **SC-4** |
+| Master Guard |  | **CL-3** | **20000** | **SC-5** |
+| Security Supervisor |  | **CL-4** | **35000** | **SS** |
+| Security Captain |  | **CL-4** | **50000** | **SC** |
+| Security Director |  | **CL-5** | **80000** | **SD** |
+| Commander |  | **CL-5** | **120000** | **C** |
+| Security Overwatch |  | **CL-O** | **Overwatch Gamepass** | **O-3** |
+|  |  |  |  |  |
+| **Emergency Response Team** | **10000 Credits/700 R$** |  |  |  |
+| Recruit |  | **CL-3** | **0** | **RCT** |
+| Specialist |  | **CL-3** | **2700** | **SPL** |
+| Corporal |  | **CL-3** | **6000** | **CPL** |
+| Sergeant |  | **CL-4** | **14000** | **SGT** |
+| Lieutenant |  | **CL-4** | **27000** | **LT** |
+| Task Force Leader |  | **CL-4** | **40000** | **TFL** |
+| Director |  | **CL-5** | **80000** | **D** |
+|  |  |  |  |  |
