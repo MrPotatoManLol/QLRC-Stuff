@@ -83,3 +83,22 @@
 | Task Force Leader |  | **CL-4** | **40000** | **TFL** |
 | Director |  | **CL-5** | **80000** | **D** |
 |  |  |  |  |  |
+| **Biohazard Containment Unit** | **9000 Credits/650 R$** |  |  |  |
+| Containment Trainee |  | **CL-3** | **0** | **C-1** |
+| Junior Containment Specialist |  | **CL-3** | **3300** | **C-2** |
+| Containment Specialist |  | **CL-3** | **6500** | **C-3** |
+| Senior Containment Specialist |  | **CL-4** | **17000** | **C-4** |
+| Containment Supervisor |  | **CL-4** | **30000** | **CS** |
+| Containment Manager |  | **CL-4** | **55000** | **CM** |
+| Biohazard Director |  | **CL-5** | **80000** | **BD** |
+|  |  |  |  |  |
+| **Command Protection Unit** | **12000 Credits/750 R$** |  |  |  |
+| Recruit |  | **CL-3** | **0** | **U-1** |
+| Junior Guardian |  | **CL-3** | **4000** | **U-2** |
+| Guardian |  | **CL-3** | **12000** | **U-3** |
+| Elite Guardian |  | **CL-4** | **23000** | **U-4** |
+| Protector |  | **CL-4** | **35000** | **U-5** |
+| Supervisor |  | **CL-4** | **55000** | **U-6** |
+| Executive Director |  | **CL-5** | **80000** | **ED** |
+| Director |  | **CL-5** | **120000** | **D** |
+|  |  |  |  |  |
