@@ -22,3 +22,5 @@
 |            Technician           |                     |       **CL-X**       |           **N/A**          |        **N/A**       |
 |            Supervisor           |                     |       **Staff**      |           **N/A**          |        **N/A**       |
 |       Engineering Director      |                     |       **Staff**      |           **N/A**          |        **N/A**       |
+
+## Civil Departments
