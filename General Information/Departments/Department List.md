@@ -115,8 +115,8 @@
 | Junior Insurgent |  | **CL-3** | **28000** | **E-5** |
 | Insurgent |  | **CL-4** | **45000** | **E-6** |
 | Senior Insurgent |  | **CL-4** | **60000** | **E-7** |
-| Force Manager |  | **CL-5** | **80000** | **O-1** |
-| Force Commander |  | **CL-5** | **120000** | **O-2** |
+| Force Manager |  | **CL-5** | **80000** | **WO-1** |
+| Force Commander |  | **CL-5** | **120000** | **WO-2** |
 | Hostile Overwatch |  | **CL-O** | **Overwatch Gamepass** | **HM** |
 |  |  |  |  |  |
 | **Research Subject** | **Free** |  |  |  |
