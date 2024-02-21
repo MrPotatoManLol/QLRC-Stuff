@@ -127,4 +127,3 @@
 | Veteran Subject |  | **CL-1** | **12000** | **N/A** |
 | Elite Subject |  | **CL-2** | **25000** | **N/A** |
 | Kingpin |  | **CL-2** | **Overwatch Gamepass** | **N/A** |
-|  |  |  |  |  |
