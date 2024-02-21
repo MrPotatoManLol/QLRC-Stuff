@@ -1,5 +1,10 @@
 ## Features
 
+### Misc
+- [ ] Maintenance Tunnel(s)
+- [ ] Maintenance Area(s)
+- [ ] Helipad(s)
+
 ### Sectors
 - [ ] Outside
 - [X] Sector 1A
@@ -13,7 +18,6 @@
 - [X] Outside Area
 - [X] Outside Access
 - [ ] Hostile Forces Spawn
-- [ ] Helipad(s)
 
 ### REDACTED Sector - In Progress
 - [X] Department of Operations Armory/Spawn
