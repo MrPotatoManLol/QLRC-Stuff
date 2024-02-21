@@ -1,4 +1,6 @@
-## Features
+# Features
+
+## Building
 
 ### Misc
 - [ ] Maintenance Tunnel(s)
@@ -62,3 +64,13 @@
 - [ ] Entity 008
 - [ ] Entity 011
 - [ ] Entity 014
+
+---
+
+## Teams
+- [ ] Research Subject
+- [ ] Hostile Forces
+- [ ] Department of Security
+- [ ] Department of Research
+- [ ] Department of Operations
+- [ ] Department of Administration
