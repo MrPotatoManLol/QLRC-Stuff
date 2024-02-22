@@ -2,7 +2,7 @@
 
 **Department Type:** Civil
 
-**Description:** The Department of Regulations is   responsible for ensuring all corporation personnel are following the rules and regulations set in place by the Corporation Overwatch and departmental HiCom. The Department of Regulations enforces all corporation laws and ensures that no personnel hold bias/corruption.
+**Description:** The Department of Regulations is responsible for ensuring all corporation personnel are following the rules and regulations set in place by the Corporation Overwatch and departmental HiCom. The Department of Regulations enforces all corporation laws and ensures that no personnel hold bias/corruption.
 
 **Join Requirements:** CL-3 or higher (RA-7)
 
@@ -28,9 +28,10 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | **Department of Regulations** | |
-| Trainee Reguations Official | **CL-3** |
-| Junior Regulations Official | **CL-3** |
-| Regulations Official | **CL-4** |
-| Senior Regulations Official | **CL-4** |
-| Chief Regulations Officer | **CL-5** |
-| Regulations Overwatch | **CL-O** |
+| Trainee Reguations Official | **LR** |
+| Junior Regulations Official | **LR** |
+| Regulations Official | **MR** |
+| Senior Regulations Official | **MR** |
+| Head Regulator | **HiCom (HR)** |
+| Chief Regulations Officer | **HiCom (HR)** |
+| Regulations Overwatch | **Overwatch** |
