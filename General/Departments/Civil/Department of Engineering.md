@@ -1,4 +1,4 @@
-# Department of Operations
+# Department of Engineering
 
 **Department Type:** Civil
 
