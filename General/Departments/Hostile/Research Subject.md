@@ -2,7 +2,7 @@
 
 **Department Type:** Hostile
 
-**Description:** Research Subjects are people obtained through unknown means. Speculations include death row inmates or volunteers, however both have not been proven. Researc Subjects are used by the Department of Research to test on entities contained by the corporation.
+**Description:** Research Subjects are people obtained through unknown means. Speculations include death row inmates or volunteers, however both have not been proven. Research Subjects are used by the Department of Research to test on entities contained by the corporation.
 
 **Join Requirements:** N/A
 
