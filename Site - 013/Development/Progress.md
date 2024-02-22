@@ -24,7 +24,7 @@
 ### REDACTED Sector - In Progress
 - [X] Department of Operations Armory/Spawn
 - [X] Interrogation Rooms
-- [ ] Surveillance Room
+- [ ] Surveillance Room **(Coming in later update)**
 
 ### Research Sector
 - [ ] Main Area
