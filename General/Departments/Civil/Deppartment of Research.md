@@ -37,4 +37,4 @@
 | Expert Researcher | **HiCom (HR)** |
 | Head Researcher | **HiCom (HR)** |
 | Director | **HiCom (HR)** |
-| Research Overwatcb | **Overwatch** |
+| Research Overwatch | **Overwatch** |
