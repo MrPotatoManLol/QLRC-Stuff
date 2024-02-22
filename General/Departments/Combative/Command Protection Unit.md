@@ -24,7 +24,7 @@
 
 ---
 
-## Research Area 13
+## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | **Command Protection Unit** |  |
