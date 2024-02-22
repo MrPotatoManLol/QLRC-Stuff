@@ -8,7 +8,7 @@
 - [ ] Helipad(s)
 
 ### Sectors
-- [ ] Outside
+- [X] Outside
 - [X] Sector 1A
 - [ ] Sector 1B
 - [X] REDACTED Sector
