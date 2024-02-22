@@ -31,7 +31,7 @@
 | **Department of Research** | | 
 | Intern | **LR** |
 | Trainee Researcher | **LR** |
-| Junior Researcher | **LR** |
+| Junior Researcher | **MR** |
 | Researcher | **MR** |
 | Senior Researcher | **MR** |
 | Expert Researcher | **HiCom (HR)** |
