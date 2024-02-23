@@ -32,7 +32,7 @@
 |:---:|:---:|
 | **Department of Security** |  |
 | Cadet | **LR** |
-| Junior Guard | **NR** |
+| Junior Guard | **MR** |
 | Guard | **MR** |
 | Senior Guard | **MR** |
 | Master Guard | **HR** |
