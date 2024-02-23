@@ -29,11 +29,11 @@
 |:---:|:---:|
 | **Department of Engineering** | |
 | Apprentice | **LR** |
-| Junior Engineer | **LR** |
+| Junior Engineer | **MR** |
 | Engineer | **MR** |
 | Senior Engineer | **MR** |
-| Technician | **MR** |
-| Senior Technician | **MR** |
-| Head Engineer | **HiCom (HR)** |
-| Director | **HiCom (HR)** |
+| Technician | **HR** |
+| Senior Technician | **HR** |
+| Head Engineer | **HiCom** |
+| Director | **HiCom** |
 | Engineering Director | **Overwatch** |

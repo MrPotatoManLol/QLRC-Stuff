@@ -34,6 +34,6 @@
 | Guardian | **MR** |
 | Elite Guardian | **MR** |
 | Protector | **MR** |
-| Supervisor | **HiCom (HR)** |
-| Executive Director | **HiCom (HR)** |
-| Director | **HiCom (HR)** |
+| Supervisor | **HR** |
+| Executive Director | **HiCom** |
+| Director | **HiCom** |

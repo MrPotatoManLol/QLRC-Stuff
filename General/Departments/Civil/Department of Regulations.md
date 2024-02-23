@@ -30,9 +30,9 @@
 |:---:|:---:|
 | **Department of Regulations** | |
 | Trainee Reguations Official | **LR** |
-| Junior Regulations Official | **LR** |
+| Junior Regulations Official | **MR** |
 | Regulations Official | **MR** |
-| Senior Regulations Official | **MR** |
-| Head Regulator | **HiCom (HR)** |
-| Chief Regulations Officer | **HiCom (HR)** |
+| Senior Regulations Official | **HR** |
+| Head Regulator | **HiCom** |
+| Chief Regulations Officer | **HiCom** |
 | Regulations Overwatch | **Overwatch** |

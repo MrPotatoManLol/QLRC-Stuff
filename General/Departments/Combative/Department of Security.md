@@ -32,11 +32,11 @@
 |:---:|:---:|
 | **Department of Security** |  |
 | Cadet | **LR** |
-| Junior Guard | **LR** |
+| Junior Guard | **NR** |
 | Guard | **MR** |
 | Senior Guard | **MR** |
-| Master Guard | **MR** |
-| Security Supervisor | **HiCom (HR)** |
+| Master Guard | **HR** |
+| Security Supervisor | **HiCom** |
 | Security Captain | **Directorate** |
 | Security Director | **Directorate** |
 | Security Overwatch | **Overwatch** |

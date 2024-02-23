@@ -32,7 +32,7 @@
 | Private First Class | **[PVT] LR** |
 | Specialist | **[SPL] MR** |
 | Corporal | **[CPL] MR** |
-| Sergeant | **[SGT] MR** |
-| Master Sergeant | **[MSGT] HiCom (HR)** |
-| Lieutenant | **[LT] HiCom (HR)** |
-| Task Force Leader | **[TFL] HiCom (HR)** |
+| Sergeant | **[SGT] HR** |
+| Master Sergeant | **[MSGT] HR** |
+| Lieutenant | **[LT] HiCom** |
+| Task Force Leader | **[TFL] HiCom** |

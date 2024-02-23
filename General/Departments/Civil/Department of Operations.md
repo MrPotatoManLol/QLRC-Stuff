@@ -31,10 +31,10 @@
 |:---:|:---:|
 | **Department of Operations** | |
 | Entry Agent | **LR** |
-| Field Agent | **LR** |
+| Field Agent | **MR** |
 | Operative | **MR** |
 | Field Operative | **MR** |
-| Senior Operative | **MR** |
-| Executive Agent | **HiCom (HR)** |
-| Operations Director | **HiCom (HR)** |
+| Senior Operative | **HR** |
+| Executive Agent | **HiCom** |
+| Operations Director | **HiCom** |
 | Operations Commandant | **Overwatch** |

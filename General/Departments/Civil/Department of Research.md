@@ -35,7 +35,7 @@
 | Junior Researcher | **MR** |
 | Researcher | **MR** |
 | Senior Researcher | **MR** |
-| Expert Researcher | **HiCom (HR)** |
-| Head Researcher | **HiCom (HR)** |
-| Director | **HiCom (HR)** |
+| Expert Researcher | **HR** |
+| Head Researcher | **HiCom** |
+| Director | **HiCom** |
 | Research Overwatch | **Overwatch** |

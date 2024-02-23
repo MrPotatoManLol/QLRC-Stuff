@@ -30,13 +30,13 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | **Hostile Forces** |  |
-| Recruit | **E-1 (LR)** |
-| Mercenary | **E-2 (LR)** |
-| Junior Contractor | **E-3 (LR)** |
-| Contractor | **E-4 (MR)** |
-| Junior Insurgent | **E-5 (MR)** |
-| Insurgent | **E-6 (MR)** |
-| Senior Insurgent | **E-7 (MR)** |
-| Force Manager | **WO-1 (HR)** |
-| Force Commander | **WO-2 (HR)** |
+| Recruit | **[A-1] LR** |
+| Mercenary | **[A-2] LR** |
+| Junior Contractor | **[A-3] MR** |
+| Contractor | **[A-4] MR** |
+| Junior Insurgent | **[A-5] MR** |
+| Insurgent | **[A-6] MR** |
+| Senior Insurgent | **[A-7] HR** |
+| Force Manager | **[N-1] HiCom** |
+| Force Commander | **[N-2] HiCom** |
 | Hostile Manager | **Manager** |
