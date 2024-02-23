@@ -21,7 +21,7 @@
 - [X] Outside Access
 - [ ] Hostile Forces Spawn
 
-### REDACTED Sector - In Progress
+### REDACTED Sector - Completed
 - [X] Department of Operations Armory/Spawn
 - [X] Interrogation Rooms
 - [ ] Surveillance Room **(Coming in later update)**
