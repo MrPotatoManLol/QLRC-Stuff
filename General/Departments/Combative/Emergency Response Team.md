@@ -4,8 +4,7 @@
 
 **Description:** The Emergency Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Emergency Response Team responds during raids and riots. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
 
-**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)
-
+**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
 
 ---

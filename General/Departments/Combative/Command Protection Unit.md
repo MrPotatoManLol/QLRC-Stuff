@@ -4,8 +4,7 @@
 
 **Description:** The Command Protection Unit is the body guards of high ranking personnel within the corporation, and representatives from other groups of interest. They ensure the safety of their protectee, and stand by the side of said protectee at all times. 
 
-**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)
-
+**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
 
 ---

@@ -4,8 +4,7 @@
 
 **Description:** The Department of Operations is a restricted department within the corporation. All operations within the department are performed in secrecy. 
 
-**Join Requirements:** [REDACTED]
-
+**Join Requirements:** [REDACTED]  
 **Join Process:** [REDACTED]
 
 ---

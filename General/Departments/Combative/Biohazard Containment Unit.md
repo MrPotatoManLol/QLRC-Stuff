@@ -4,8 +4,7 @@
 
 **Description:** The Biohazard Containment Unit is responsible for the tracking and containment of entities discovered by the corporation. They work closely with the Emergency Response Team in the event of an entity breach to ensure the recontainment of any entities that may have breached containment.
 
-**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)
-
+**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
 
 ---
