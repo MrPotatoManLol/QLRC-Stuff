@@ -6,6 +6,8 @@
 
 **Join Requirements:** CL-2 or higher (RA-7)
 
+**Join Process:** Application (RA-7)
+
 ---
 
 ## Site - 013

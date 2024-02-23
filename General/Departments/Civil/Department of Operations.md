@@ -6,6 +6,8 @@
 
 **Join Requirements:** [REDACTED]
 
+**Join Process:** [REDACTED]
+
 ---
 
 ## Site - 013

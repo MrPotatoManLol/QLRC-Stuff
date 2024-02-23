@@ -6,6 +6,8 @@
 
 **Join Requirements:** N/A
 
+**Join Process:** N/A
+
 ---
 
 ## Site - 013

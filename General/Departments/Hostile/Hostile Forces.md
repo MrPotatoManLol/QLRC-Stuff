@@ -5,6 +5,7 @@
 **Description:** The Hostile Forces is a hostile Group of Interest to the corporation. The group's origin and true name is unknown, along with their true motive. It's speculated around Corporation Personnel that the group formed after the removal of numerous rogue Security HiCom, however nothing has been confirmed. 
 
 **Join Requirements:** CL-0 (RA-7)
+**Join Process:** Application (RA-7)
 
 ---
 
