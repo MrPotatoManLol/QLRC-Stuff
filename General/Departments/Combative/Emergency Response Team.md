@@ -27,11 +27,11 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | **Emergency Response Team** |  |
-| Recruit | **LR** |
-| Private | **LR** |
-| Specialist | **MR** |
-| Corporal | **MR** |
-| Sergeant | **MR** |
-| Master Sergeant | **HiCom (HR)** |
-| Lieutenant | **HiCom (HR)** |
-| Task Force Leader | **HiCom (HR)** |
+| Recruit | **[RCT] LR** |
+| Private First Class | **[PVT] LR** |
+| Specialist | **[SPL] MR** |
+| Corporal | **[CPL] MR** |
+| Sergeant | **[SGT] MR** |
+| Master Sergeant | **[MSGT] HiCom (HR)** |
+| Lieutenant | **[LT] HiCom (HR)** |
+| Task Force Leader | **[TFL] HiCom (HR)** |
