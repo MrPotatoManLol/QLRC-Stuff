@@ -107,7 +107,7 @@
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Hostile Forces** | **14000 Credits/800 R$** |  |  |  |
+| **Hostile Forces "Zeta 9"** | **14000 Credits/800 R$** |  |  |  |
 | Recruit |  | **CL-2** | **0** | **E-1** |
 | Mercenary |  | **CL-2** | **3500** | **E-2** |
 | Junior Contractor |  | **CL-3** | **7000** | **E-3** |
