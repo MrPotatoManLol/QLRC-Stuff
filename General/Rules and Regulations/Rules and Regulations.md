@@ -97,3 +97,7 @@
 
 6) No alt accounts.  
     ***i)*** *If caught using an alt account, both the alt account and main account will be banned.*
+
+---
+
+<p style="text-align: center;">For any questions, comments, or concerns, please contact the QRLC Community Manager.<br>Rules and Regulations are subject to change at any time. Please ensure you are aware of rule changes.</p>
