@@ -4,6 +4,10 @@
 
 **Description:** The Hostile Forces is a hostile Group of Interest to the corporation. The group's origin and true name are unknown, resulting in their designation *Zeta 9*. It's speculated around Corporation Personnel that the group formed after the removal of numerous rogue Security HiCom, however nothing has been confirmed. 
 
+> *We were once one of them. Now, we are our own. We strive to reveal the truth hidden behind darkness and lies. We will not stop until the truth is brought to light. Until The Overwatch is overtaken. We will fight until our very last breath, until our last seconds. We do not give up. We work together. We are one. We are Zeta 9.*
+
+We all know nothing lasts forever. We don’t come to create a legacy, to become a legend. Each of us, separate, is a weak, fragile little thing. Together we are united. Together, we become more powerful than imaginable, rendering Nova Corporation a mere speck of dust in our trail. Together, we are one, we are a pack. We are the Red Wolves.
+
 **Join Requirements:** CL-0 (RA-7)  
 **Join Process:** Application (RA-7)
 
