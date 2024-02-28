@@ -1,8 +1,8 @@
-# Department of Regulations
+# Regulations Department
 
 **Department Type:** Civil
 
-**Description:** The Department of Regulations is responsible for ensuring all corporation personnel are following the rules and regulations set in place by the Corporation Overwatch and departmental HiCom. The Department of Regulations enforces all corporation laws and ensures that no personnel hold bias/corruption.
+**Description:** The Regulations Department is responsible for ensuring all corporation personnel are following the rules and regulations set in place by the Corporation Overwatch and departmental HiCom. The Regulations Department enforces all corporation laws and ensures that no personnel hold bias/corruption.
 
 > *With integrity we hold accountability.*
 
@@ -15,7 +15,7 @@
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Department of Regulations** | **Staff Only** |  |  |  |
+| **Regulations Department** | **Staff Only** |  |  |  |
 | Trainee Reguations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
 | Junior Regulations Official |  | **CL-X** | **Mod** | **N/A** |
 | Regulations Official |  | **CL-X** | **Sr. Mod** | **N/A** |
@@ -30,7 +30,7 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Department of Regulations** | |
+| **Regulations Department** | |
 | Trainee Reguations Official | **LR** |
 | Junior Regulations Official | **MR** |
 | Regulations Official | **MR** |

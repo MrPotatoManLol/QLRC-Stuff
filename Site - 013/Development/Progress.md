@@ -16,10 +16,10 @@
 - [ ] Sector 3
 - [ ] Sector 4
 
-### Outside - In Progress
+### Outside - Completed
 - [X] Outside Area
 - [X] Outside Access
-- [ ] Hostile Forces Spawn
+- [X] Hostile Forces Spawn
 
 ### REDACTED Sector - Completed
 - [X] Department of Operations Armory/Spawn
