@@ -3,14 +3,14 @@
 ## Building
 
 ### Misc
-- [ ] Maintenance Tunnel(s)
+- [X] Maintenance Tunnel(s)
 - [ ] Maintenance Area(s)
 - [ ] Helipad(s)
 
 ### Sectors
 - [X] Outside
 - [X] Sector 1A
-- [ ] Sector 1B
+- [X] Sector 1B
 - [X] REDACTED Sector
 - [ ] Sector 2
 - [ ] Sector 3
@@ -26,24 +26,24 @@
 - [X] Interrogation Rooms
 - [ ] Surveillance Room **(Coming in later update)**
 
-### Research Sector
+### Research Sector - In Progress
 - [ ] Main Area
 - [ ] Pad Rooms
 - [ ] Medbay
 - [ ] Department of Research Spawn
 
-### Sector 1A - In Progress
+### Sector 1A - Completed
 - [X] Main Area
 - [X] Control Room
 - [X] Administration
 - [X] Cafeteria
-- [ ] Meeting Room
+- [ ] Meeting Room **(Coming in later update)**
 - [X] REDACTED Sector Primary Entrance
 
-### Sector 1B
-- [ ] Research Subject Housing
-- [ ] Security Armory/Armories
-- [ ] REDACTED Sector Secondary Entrance
+### Sector 1B - Completed
+- [X] Research Subject Housing
+- [X] Security Armory/Armories
+- [X] REDACTED Sector Secondary Entrance
 
 ### Sector 2
 - [ ] Biohazard Containment Unit Armory
