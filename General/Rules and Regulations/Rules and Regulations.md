@@ -51,6 +51,12 @@
     ***i)*** *Moderators have the final say in actions taken. If you disagree with an action taken, contact an Administrator+.*  
     ***ii)*** *You may appeal any action taken via our Discord Server.*
 
+4) Impersonating staff will result in severe punishment.  
+    ***i)*** *Impersonating staff includes, but is not limited to:*  
+    + Stating you are a staff member when you are not
+    + Stating you used to be staff when you were not
+    + Pretending to be someone else who is staff
+
 ---
 
 ## Section 3 - Site 013 Rules
