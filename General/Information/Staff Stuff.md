@@ -38,6 +38,6 @@ Human Resources
 
 ---
 
-Development Leaks Ping
-Announcement Ping
+Development Leaks Ping  
+Announcement Ping  
 Updates Ping
