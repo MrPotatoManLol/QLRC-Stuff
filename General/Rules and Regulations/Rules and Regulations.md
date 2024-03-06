@@ -13,8 +13,6 @@
 
 ### General Definitions  
 **QRLC:** Quantum Labs Research Corporation  
-**S1-S4:** Sector 1 - Sector 4  
-**RSH:** Research Subject Housing  
 **Spam:** Sending a message/chat repeatedly in a short amount of time.  
 **Flood:** Sending a long message/chat, with no real need for said message.
 
