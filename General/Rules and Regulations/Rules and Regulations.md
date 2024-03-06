@@ -18,23 +18,16 @@
 **Spam:** Sending a message/chat repeatedly in a short amount of time.  
 **Flood:** Sending a long message/chat, with no real need for said message.
 
-### Teams/Departments
-**Civil Department:** Usually unarmed and non-combative departments.  
-**Combative Department:** Main security departments.  
-**Hostile Department:** Departments that are hostile to QRLC.
+### Punishment Information
+> Infractions (with some exceptions) stay on a users record (meaning any staff can see what infraction occured and when it occured) unless appealed by said user after one month of the infraction being given. If appealed, the infraction is removed from said users record (although still visible to Administration, but not Moderation). This is to help staff give fair and reasonable punishments.
+> Punishments do not stack, meaning just because you abused radio at one point, doesn't mean you'll get banned for doing somethnig else. Punishments for the same infraction multiple times, however, will stack.  
 
-**DOE:** Department of Engineering  
-**DoO:** Department of Operations  
-**DoR:** Department of Research  
-**RD:** Regulations Department
-
-**DoS:** Department of Security  
-**BCU:** Biohazard Containment Unit  
-**ERT:** Emergency Response Team  
-**CPU:** Command Protection Unit  
-
-**HF/Zeta 9:** Hostile Forces group Zeta 9  
-**RS:** Research Subjects
+**Verbal Warning (VW)** - Unofficial warning, given by staff members verbally.  
+**Offical Warning (OW)** - Official warning, given by staff members using commands.  
+**Mute** - Discord only, given after 2 or more OWs, can range up to 48 hours.  
+**Kick** - Removed from the game/server after being given multiple warnings/mutes.  
+**Temp Ban** - Banned from the game/Discord for a certain amount of time. Usually not appealable. **Temp bans stay on a users record for 6 months before they are able to be removed.)**  
+**PBan** - Banned from the game/Discord permanently, unless appealed. Not always appealable, depending on the reason for the ban. An appeal may not be permitted until after a specified amount of time has passed from the ban being issued. **(PBans stay on a users record permanently, and can not be removed.)**
 
 ---
 
