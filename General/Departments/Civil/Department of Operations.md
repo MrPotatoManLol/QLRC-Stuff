@@ -31,7 +31,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Department of Operations** | |
 | Entry Agent | **LR** |
 | Field Agent | **MR** |
 | Operative | **MR** |

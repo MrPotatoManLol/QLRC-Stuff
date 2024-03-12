@@ -13,7 +13,6 @@
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Research Subject** | **Free** |  |  |  |
 | Newcomer |  | **CL-0** | **0** | **N/A** |
 | Regular Subject |  | **CL-0** | **2000** | **N/A** |
 | Adept Subject |  | **CL-1** | **3500** | **N/A** |

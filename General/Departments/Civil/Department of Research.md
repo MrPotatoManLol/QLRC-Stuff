@@ -31,7 +31,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Department of Research** | | 
 | Intern | **LR** |
 | Trainee Researcher | **LR** |
 | Junior Researcher | **MR** |

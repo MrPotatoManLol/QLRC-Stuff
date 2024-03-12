@@ -30,7 +30,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Emergency Response Team** |  |
 | Recruit | **[RCT] LR** |
 | Private First Class | **[PVT] LR** |
 | Specialist | **[SPL] MR** |

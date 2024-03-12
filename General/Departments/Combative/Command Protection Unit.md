@@ -30,7 +30,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Command Protection Unit** |  |
 | Recruit | **LR** |
 | Junior Guardian | **LR** |
 | Guardian | **MR** |

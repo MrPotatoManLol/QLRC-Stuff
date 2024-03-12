@@ -30,7 +30,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Regulations Department** | |
 | Trainee Reguations Official | **LR** |
 | Junior Regulations Official | **MR** |
 | Regulations Official | **MR** |

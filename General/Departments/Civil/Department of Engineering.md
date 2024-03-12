@@ -30,7 +30,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Department of Engineering** | |
 | Apprentice | **LR** |
 | Junior Engineer | **MR** |
 | Engineer | **MR** |

@@ -29,7 +29,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Biohazard Containment Unit** |  |
 | Containment Recruit | **LR** |
 | Junior Containment Specialist | **LR** |
 | Containment Specialist | **MR** |

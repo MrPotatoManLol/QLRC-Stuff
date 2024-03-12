@@ -32,7 +32,6 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| **Department of Security** |  |
 | Cadet | **LR** |
 | Junior Guard | **MR** |
 | Guard | **MR** |
@@ -42,5 +41,7 @@
 | Security Captain | **Directorate** |
 | Security Director | **Directorate** |
 | Security Overwatch | **Overwatch** |
+
+---
 
 **Note:** HiCom within the Department of Security oversee operations within their specific detachment, whereas Directorate personnel oversee operations within all detachments of the Department of Security.

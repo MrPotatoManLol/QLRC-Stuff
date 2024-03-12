@@ -1,0 +1,2 @@
+# Unofficial Departments/Divisions Info
+> Departments/divisions listed in this folder are unofficial or are in discussion. Any departments/divisions listed may or may not be put into the official game, and may only be used for lore purposes.
