@@ -17,14 +17,14 @@
 
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** | |
-|:---:|:---:|:---|
-| Private First Class | **[E-1]** | **LR** |
-| Lance Corporal | **[E-2]** | **LR** |
-| Corporal | **[E-3]** | **MR** |
-| Staff Sergeant | **[E-4]** | **MR** |
-| Master Sergeant | **[E-5]** | **MR** |
-| Warrant Officer | **[WO-1]** | **HR** |
-| Chief Warrant Officer | **[WO-2]** | **HR** |
-| Lieutenant | **[LT]** | **HiCom** |
-| Captain | **[CPT]** | **HiCom** |
-| Major | **[MAJ]** | **HiCom** |
+|:---:|:---:|:---:|
+| Private First Class | **[E-1] LR** |
+| Lance Corporal | **[E-2] LR** |
+| Corporal | **[E-3] MR** |
+| Staff Sergeant | **[E-4] MR** |
+| Master Sergeant | **[E-5] MR** |
+| Warrant Officer | **[WO-1] HR** |
+| Chief Warrant Officer | **[WO-2] HR** |
+| Lieutenant | **[LT] HiCom** |
+| Captain | **[CPT] HiCom** |
+| Major | **[MAJ] HiCom** |
