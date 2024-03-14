@@ -3,7 +3,7 @@
 **Department:** Zeta 9  
 **Division Name:** Zeta Force
 
-**Description:** Created after incident ███-█, Hostile Forces group "Zeta 9" created Zeta Force in an attempt to overcome the growing abilities of the Corporations Security forces. Zeta Force consists of specially trained combatants responsible for carrying out special operation missions on Research Area 7.
+**Description:** Created after incident ███-█, Hostile Forces group "Zeta 9" created Zeta Force in an attempt to overcome the growing abilities of the Corporation's Security forces. Zeta Force consists of specially trained combatants responsible for carrying out special operation missions on Research Area 7.
 
 **Join Requirements:** Member of Zeta 9 (RA-7)  
 **Join Process:** Tryout (RA-7)
