@@ -4,7 +4,7 @@
 
 **Description:** N/A
 
-**Join Requirements:** N/A
+**Join Requirements:** N/A  
 **Join Process:** N/A
 
 ---
