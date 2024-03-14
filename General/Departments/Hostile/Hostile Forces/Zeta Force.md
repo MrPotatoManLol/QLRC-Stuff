@@ -16,8 +16,8 @@
 ---
 
 ## Research Area 7
-| **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
-|:---:|:---:|
+| **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** | |
+|:---:|:---:|:---|
 | Private First Class | **[E-1]** | **LR** |
 | Lance Corporal | **[E-2]** | **LR** |
 | Corporal | **[E-3]** | **MR** |
