@@ -57,13 +57,16 @@
     ***i)*** *Failure to do so will result in severe punishment.*
 
 2) Do not misuse the radio.  
-    ***i)***  *Radio misuse includes, but is not limited to: Spamming and/or flooding the radio with unnecessary messages.*  
+    ***i)*** *Radio misuse includes, but is not limited to: Spamming and/or flooding the radio with unnecessary messages.*  
     ***ii)*** *Exceptions can be made if the user in question was unaware they were talking on the radio at the time of the messages.*
 
 3) Don't exploit. It will result in an instant ban.  
     ***i)*** *Exploiting includes, but is not limited to: Using an alternate client and/or executor (Synapse, Delta, etc.) to modify gameplay in some way via injecting scripts.*  
     ***ii)*** *The same applies to glitching* ***UNLESS*** *it can be proven it was not done with malicious intent.*  
     ***iii)*** *Examples of malicious glitching include using a bug/glitch to gain an advantage over other players.*
+
+4) Don't act stupid.
+    ***i)*** *Be a normal player and don't try to ruin the game or make it unfun for others.*
 
 ---
 
