@@ -1,6 +1,7 @@
 # Emergency Response Team
 
-**Department Type:** Combative
+**Department:** Department of Securty  
+**Division Name:** Emergency Response Team
 
 **Description:** The Emergency Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Emergency Response Team responds during raids and riots. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
 

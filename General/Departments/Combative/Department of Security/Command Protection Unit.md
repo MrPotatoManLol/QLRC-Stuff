@@ -1,6 +1,7 @@
 # Command Protection Unit
 
-**Department Type:** Combative
+**Department:** Department of Securty  
+**Division Name:** Command Protection Unit
 
 **Description:** The Command Protection Unit is the body guards of high ranking personnel within the corporation, and representatives from other groups of interest. They ensure the safety of their protectee, and stand by the side of said protectee at all times. 
 

@@ -33,9 +33,9 @@
 |:---:|:---:|
 | Entry Agent | **LR** |
 | Field Agent | **MR** |
-| Operative | **MR** |
-| Field Operative | **MR** |
-| Senior Operative | **HR** |
+| Special Agent | **MR** |
+| Senior Agent | **MR** |
+| Head Agent | **HR** |
 | Executive Agent | **HiCom** |
 | Operations Director | **HiCom** |
 | Operations Commandant | **Overwatch** |

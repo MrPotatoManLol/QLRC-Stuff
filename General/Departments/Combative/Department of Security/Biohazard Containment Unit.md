@@ -1,6 +1,7 @@
 # Biohazard Containment Unit
 
-**Department Type:** Combative
+**Department:** Department of Security 
+**Division Name:** Biohazard Containment Unit
 
 **Description:** The Biohazard Containment Unit is responsible for the tracking and containment of entities discovered by the corporation. They work closely with the Emergency Response Team in the event of an entity breach to ensure the recontainment of any entities that may have breached containment.
 
