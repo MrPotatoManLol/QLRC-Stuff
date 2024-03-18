@@ -18,7 +18,7 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Entry Operative | **LR** |
-| Junior Operative | **LR** |
+| Junior Operative | **MR** |
 | Field Operative | **MR** |
 | Senior Operative | **MR** |
 | Elite Operative | **HR** |
