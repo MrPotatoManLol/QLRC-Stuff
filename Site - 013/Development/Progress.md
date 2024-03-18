@@ -27,10 +27,10 @@
 - [ ] Surveillance Room **(Coming in later update)**
 
 ### Research Sector - In Progress
-- [ ] Main Area
+- [X] Main Area
 - [ ] Pad Rooms
 - [ ] Medbay
-- [ ] Department of Research Spawn
+- [X] Department of Research Spawn
 
 ### Sector 1A - Completed
 - [X] Main Area
@@ -45,8 +45,8 @@
 - [X] Security Armory/Armories
 - [X] REDACTED Sector Secondary Entrance
 
-### Sector 2
-- [ ] Biohazard Containment Unit Armory
+### Sector 2 - In Progress
+- [X] Biohazard Containment Unit Armory
 - [ ] Entity 002
 - [ ] Entity 004
 - [ ] Entity 005
