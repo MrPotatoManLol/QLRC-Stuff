@@ -47,6 +47,7 @@
 
 ### Sector 2 - In Progress
 - [X] Biohazard Containment Unit Armory
+- [X] Checkpoint/Airlock
 - [ ] Entity 002
 - [ ] Entity 004
 - [ ] Entity 005
