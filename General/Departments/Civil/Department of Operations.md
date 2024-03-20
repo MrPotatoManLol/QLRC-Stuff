@@ -19,10 +19,10 @@
 | Entry Agent |  | **CL-3** | **0** | **D-1** |
 | Field Agent |  | **CL-3** | **4300** | **D-2** |
 | Special Agent |  | **CL-3** | **9000** | **D-3** |
-| Operative |  | **CL-3** | **19500** | **D-4** |
-| Field Operative |  | **CL-4** | **33000** | **D-5** |
-| Senior Operative |  | **CL-4** | **50000** | **D-6** |
-| Supervisor |  | **CL-5** | **80000** | **S** |
+| Senior Agent |  | **CL-3** | **19500** | **D-4** |
+| Head Agent |  | **CL-4** | **33000** | **D-5** |
+| Executive Agent |  | **CL-4** | **50000** | **D-6** |
+| Supervising Agent |  | **CL-5** | **80000** | **S** |
 | Operations Manager |  | **CL-5** | **120000** | **OM** |
 | Director of Operations |  | **CL-O** | **Overwatch Gamepass** | **O-1** |
 
