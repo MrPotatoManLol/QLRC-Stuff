@@ -33,7 +33,14 @@
 | Trainee Reguations Official | **LR** |
 | Junior Regulations Official | **MR** |
 | Regulations Official | **MR** |
-| Senior Regulations Official | **HR** |
-| Head Regulator | **HiCom** |
-| Chief Regulations Officer | **HiCom** |
+| Senior Regulations Official | **MR** |
+| Regulations Supervisor | **HR** |
+| Head Regulator | **HR** |
+| Regulations Management | **HiCom** |
+| Chief Regulations Officer | **Directorate** |
+| Regulations Director | **Directorate** |
 | Regulations Overwatch | **Overwatch** |
+
+---
+
+**Note:** HiCom within the Regulations Department oversee operations within their specific detachment, whereas Directorate personnel oversee operations within all branches of the Regulations Department.
