@@ -38,7 +38,8 @@
 | Senior Guard | **MR** |
 | Master Guard | **HR** |
 | Security Supervisor | **HiCom** |
-| Security Captain | **Directorate** |
+| Security Captain | **HiCom** |
+| Security Commander | **Directorate** |
 | Security Director | **Directorate** |
 | Security Overwatch | **Overwatch** |
 

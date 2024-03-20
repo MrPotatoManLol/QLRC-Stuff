@@ -38,5 +38,6 @@
 | Senior Researcher | **MR** |
 | Expert Researcher | **HR** |
 | Head Researcher | **HiCom** |
-| Director | **HiCom** |
+| Executive Director | **Directorate** |
+| Director | **Directorate** |
 | Research Overwatch | **Overwatch** |

@@ -37,5 +37,6 @@
 | Technician | **HR** |
 | Senior Technician | **HR** |
 | Head Engineer | **HiCom** |
-| Director | **HiCom** |
+| Executive Director | **Directorate** |
+| Director | **Directorate** |
 | Engineering Director | **Overwatch** |

@@ -22,7 +22,7 @@
 | Field Operative | **MR** |
 | Senior Operative | **MR** |
 | Elite Operative | **HR** |
-| Head Operative | **HR** |
-| Executive Director | **HiCom** |
-| Director | **HiCom** |
+| Head Operative | **HiCom** |
+| Executive Director | **Directorate** |
+| Director | **Directorate** |
 | Overwatch | **Overwatch** |

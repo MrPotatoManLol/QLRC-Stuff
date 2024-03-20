@@ -37,5 +37,5 @@
 | Senior Agent | **MR** |
 | Head Agent | **HR** |
 | Executive Agent | **HiCom** |
-| Operations Director | **HiCom** |
+| Operations Director | **Directorate** |
 | Operations Commandant | **Overwatch** |

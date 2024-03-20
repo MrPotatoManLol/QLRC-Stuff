@@ -35,9 +35,9 @@
 | Regulations Official | **MR** |
 | Senior Regulations Official | **MR** |
 | Regulations Supervisor | **HR** |
-| Head Regulator | **HR** |
+| Head Regulator | **HiCom** |
 | Regulations Management | **HiCom** |
-| Chief Regulations Officer | **Directorate** |
+| Executive Director| **Directorate** |
 | Regulations Director | **Directorate** |
 | Regulations Overwatch | **Overwatch** |
 
