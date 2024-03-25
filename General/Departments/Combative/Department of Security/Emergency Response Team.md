@@ -39,3 +39,4 @@
 | Master Sergeant | **[MSGT] HR** |
 | Lieutenant | **[LT] HiCom** |
 | Task Force Leader | **[TFL] HiCom** |
+| Task Force Director | **[TFD] HiCom** |

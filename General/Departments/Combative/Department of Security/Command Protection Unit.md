@@ -32,10 +32,10 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Recruit | **LR** |
-| Junior Guardian | **LR** |
+| Junior Guardian | **MR** |
 | Guardian | **MR** |
-| Elite Guardian | **MR** |
-| Protector | **MR** |
-| Supervisor | **HR** |
+| Elite Guardian | **HR** |
+| Protector | **HR** |
+| Supervisor | **HiCom** |
 | Executive Director | **HiCom** |
 | Director | **HiCom** |
