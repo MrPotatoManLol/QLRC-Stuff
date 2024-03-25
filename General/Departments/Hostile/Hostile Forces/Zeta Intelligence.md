@@ -22,7 +22,7 @@
 | Entry Agent | **LR** |
 | Field Agent | **MR** |
 | Special Agent | **MR** |
-| Head Agent | **MR** |
+| Head Agent | **HR** |
 | Supervisor | **HR** |
 | Intelligence Command | **HiCom** |
 | Intelligence Director | **HiCom** |
