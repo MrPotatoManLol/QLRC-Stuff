@@ -39,35 +39,35 @@
 
 2) CLASS - E CLASSIFICATION:
 
-*a) The Class - E rank is given to corporation personnel who have been found to have violated the QLRC Articles stated in this document.*
+*a) The Class - E rank is given to Corporation Personnel who have been found to have violated the QLRC Articles stated in this document.*
 
 3) HIGH COMMAND RANKS IN EACH DEPARTMENT:
 
-*a) Department of Operations personnel ranking "Executive Agent"*
+*a) Department of Operations Personnel ranking "Executive Agent"*
 
-*b) Department of Engineering personnel ranking "Head Engineer"*
+*b) Department of Engineering Personnel ranking "Head Engineer"*
 
-*c) Department of Research personnel ranking "Head Researcher"*
+*c) Department of Research Personnel ranking "Head Researcher"*
 
-*d) Regulations Department personnel ranking "Head Regulator" to "Regulations Management"*
+*d) Regulations Department Personnel ranking "Head Regulator" to "Regulations Management"*
 
-*e) Department of Security personnel ranking "Security Supervisor" to "Security Captain"*
+*e) Department of Security Personnel ranking "Security Supervisor" to "Security Captain"*
 
 4) DIRECTORATE RANKS IN EACH DEPARTMENT:
 
-*a) Department of Operations personnel ranking "Operations Director"*
+*a) Department of Operations Personnel ranking "Operations Director"*
 
-*b) Department of Engineering personnel ranking "Executive Director" to "Director"*
+*b) Department of Engineering Personnel ranking "Executive Director" to "Director"*
 
-*c) Department of Research personnel ranking "Executive Director" to "Director"*
+*c) Department of Research Personnel ranking "Executive Director" to "Director"*
 
-*d) Regulations Department personnel ranking "Executive Director" to "Regulations Director"*
+*d) Regulations Department Personnel ranking "Executive Director" to "Regulations Director"*
 
-*e) Department of Security personnel ranking "Security Commander" to "Security Director"*
+*e) Department of Security Personnel ranking "Security Commander" to "Security Director"*
 
 5) DEPARTMENTAL GUIDELINES:
 
-*a) Departmental personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.*
+*a) Departmental Personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.*
 
 
 
@@ -88,7 +88,7 @@
 
 2) IMPERSONATION:
 
-*a) Corporation Personnel are not allowed to impersonate any personnel or hostile forces within any QLRC communication server or game. Impersonation includes, but is not limited to:
+*a) Corporation Personnel are not allowed to impersonate any personnel or hostile forces within any QLRC communication server or game. Impersonation includes, but is not limited to:*
 
 *i) Wearing a departments uniform of something resembling a departments uniform without being a member of said department.*
 
@@ -111,7 +111,7 @@
 
 *b) Corporation Personnel may not trespass into locations where said personnel do not have access to.*
 
-*i) Personnel found in areas restricted to the Department of Operations or the Overwatch Council will recieve in immediate CL-E sentence.*
+*i) Personnel found in areas restricted to the Department of Operations or the Overwatch Council will recieve an immediate CL-E sentence.*
 
 *c) Authorization of personnel to enter an area they do not have access to depends on the situation and location said personnel is in.*
 
@@ -149,7 +149,7 @@ Personnel ranking CL-X → Personnel ranking CL-O → Operations Personnel
 
 Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Personnel ranking CL-5 → Personnel not yet listed
 
-*a) Authority of personnel ranking CL-O can be overridden by members of the Department of Operations, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
+*a) Authority of personnel ranking CL-O can be overridden by members of the Department of Operations ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
 
 
 2) ON-SITE AUTHORITY
@@ -164,24 +164,24 @@ Personnel ranking CL-O → Departmental HiCom Personnel → Regulations Personne
 Security Personnel ranking "Security Supervisor" or above → Security Personnel in the division "Emergency Response Team" → Security Personnel → Regulations Personnel → Personnel not yet listed
 
 *d) Research Sector*  
-Research Personnel ranking "Executive Director" or higher → Security Personnel ranking "Security Supervisor" or higher → Regulations Personnel ranking "Regulations Official" or higher → Research Personnel → Security Personnel → Personnel not yet listed
+Research Personnel ranking "Executive Director" or above → Security Personnel ranking "Security Supervisor" or higher → Regulations Personnel ranking "Regulations Official" or above → Research Personnel → Security Personnel → Personnel not yet listed
 
 *e) Operations Sector*  
 Operations Personnel → Personnel ranking CL-O → Other personnel not yet listed
 
 *f) Research Subject Housing*  
-Security Personnel ranking "Security Commander" or higher → Regulations Personnel ranking "Regulations Official" or higher → Security Personnel → Personnel not yet listed
+Security Personnel ranking "Master Guard" or above → Regulations Personnel ranking "Regulations Official" or above → Security Personnel → Personnel not yet listed
 
 *g) Sectors 2 and above*  
-Security personnel ranking "Security Commander" or higher → Security Personnel in the division "Biohazard Containment Unit" → Security Personnel → Regulations Personnel → Research Personnel → Personnel not yet listed
+Security personnel ranking "Security Commander" or above → Security Personnel in the division "Biohazard Containment Unit" → Security Personnel → Regulations Personnel → Research Personnel → Personnel not yet listed
 
 3) AUTHORITY DURING CONTAINMENT BREACH
 
-Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or higher → Personnel ranking CL-O → Security Personnel → Regulations Personnel → Personnel not yet listed
+Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or above → Personnel ranking CL-O → Security Personnel → Regulations Personnel → Personnel not yet listed
 
 4) AUTHORITY DURING EVACUATION
 
-Security Personnel in the division "Emergency Response Team" → Security Personnel ranking "Security Commander" or higher → Security Personnel → Regulations Personnel → Personnel ranking CL-O → Personnel not yet listed
+Security Personnel in the division "Emergency Response Team" → Security Personnel ranking "Security Commander" or above → Security Personnel → Regulations Personnel → Personnel ranking CL-O → Personnel not yet listed
 
 5) AUTHORITY DURING ON-SITE HOSTILE THREAT
 
