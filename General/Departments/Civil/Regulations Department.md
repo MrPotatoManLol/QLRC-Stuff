@@ -16,7 +16,7 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
 | **Regulations Department** | **Staff Only** |  |  |  |
-| Trainee Reguations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
+| Trainee Regulations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
 | Junior Regulations Official |  | **CL-X** | **Mod** | **N/A** |
 | Regulations Official |  | **CL-X** | **Sr. Mod** | **N/A** |
 | Senior Regulations Official |  | **CL-X** | **Administrator** | **N/A** |
@@ -30,7 +30,7 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Trainee Reguations Official | **LR** |
+| Trainee Regulations Official | **LR** |
 | Junior Regulations Official | **MR** |
 | Regulations Official | **MR** |
 | Senior Regulations Official | **MR** |
