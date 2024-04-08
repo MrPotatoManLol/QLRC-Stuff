@@ -7,7 +7,7 @@
 
 > *When the Geiger Counter starts tickin’ we come in kickin.*
 
-**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)  
+**Join Requirements:** CL-1 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
 
 ---
