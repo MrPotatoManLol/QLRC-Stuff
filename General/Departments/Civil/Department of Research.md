@@ -6,7 +6,7 @@
 
 > *The innovation of tomorrow.*
 
-**Join Requirements:** CL-1 or higher (RA-7)  
+**Join Requirements:** CL-0 or higher (RA-7)  
 **Join Process:** Application (RA-7)
 
 ---
