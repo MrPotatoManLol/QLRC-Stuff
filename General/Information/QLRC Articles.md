@@ -280,6 +280,6 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *i) Operations Personnel, Executive Personnel, and members of the Overwatch Council can not be declared Detain on Sight, except by order of the Overwatch Council.*
 
-*a) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
+*ii) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
 
-*ii) Regulations Personnel can not be declared Detain on Sight, except by order of the Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.*
+*iii) Regulations Personnel can not be declared Detain on Sight, except by order of the Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.*
