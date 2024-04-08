@@ -8,7 +8,7 @@
 > *Pugna pro filiis tuis, et utere fortitudine tua adversus hostes tuos; et illis corruentibus, exulta.*  
 > *(Fight for your children's sake, and use your strength against your enemies. For they will fall before you by the sword)*
 
-**Join Requirements:** CL-2 or higher **and** member of the Department of Security (RA-7)  
+**Join Requirements:** CL-1 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
 
 ---
