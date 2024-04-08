@@ -32,4 +32,4 @@ No more than **3** Personnel Representatives may be present on the Board of Advi
 * Board Members can not be removed from the Board of Advisors for voting their opinion or proposing a rule change.
 * Board Members can not be punished in their department for any vote or proposal they make.
 * Board Members are expected to vote on at least 1 proposal for every 3 proposals, with the exception of members of the Department of Operations.
-* Members of the Department of Operations and the Overwatch Council have the power to overturn any proposal, within proper reasoning, no matter the votes recieved for said proposal.
+* Members of the Department of Operations ranking Senior Agent and above, and members of the Overwatch Council have the power to overturn any proposal, within proper reasoning, no matter the votes received for said proposal.
