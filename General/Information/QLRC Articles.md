@@ -230,7 +230,7 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *iv) Said subject ignores orders given by the host of a test.*
 
-# Section 3: Department of Operations
+## Section 3: Department of Operations
 
 1) OVERRIDING REGULATIONS
 
@@ -248,7 +248,7 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *a) Operations Personnel may terminate any Corporation Personnel below CL-X, given their lives are in danger as a result of said Corporation Personnel.*
 
-# Section 4: Department of Research
+## Section 4: Department of Research
 
 1) TESTING GUIDELINES
 
@@ -266,7 +266,7 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *a) All non-affected Research Subjects in the test can not be terminated by Security Personnel, and must be returned to the Research Subject Housing after the test is concluded.*
 
-# Section 5: Regulations Department
+## Section 5: Regulations Department
 
 1) ACTIVE CASES
 
