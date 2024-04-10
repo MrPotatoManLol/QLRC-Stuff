@@ -41,7 +41,3 @@
 | Force Manager | **[N-1] HiCom** |
 | Force Commander | **[N-2] Directorate** |
 | Hostile Manager | **Manager** |
-
----
-
-**Note:** HiCom within Zeta 9 oversee operations within their specific detachment, whereas Directorate personnel oversee operations within all detachments of Zeta 9.
