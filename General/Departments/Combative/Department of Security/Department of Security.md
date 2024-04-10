@@ -42,7 +42,3 @@
 | Security Commander | **Directorate** |
 | Security Director | **Directorate** |
 | Security Overwatch | **Overwatch** |
-
----
-
-**Note:** HiCom within the Department of Security oversee operations within their specific detachment, whereas Directorate personnel oversee operations within all detachments of the Department of Security.
