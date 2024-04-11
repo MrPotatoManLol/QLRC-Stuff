@@ -33,8 +33,8 @@
 | Containment Recruit | **LR** |
 | Junior Containment Specialist | **MR** |
 | Containment Specialist | **MR** |
-| Senior Containment Specialist | **HR** |
 | Experienced Containment Specialist | **HR** |
+| Senior Containment Specialist | **HR** |
 | Containment Supervisor | **HiCom** |
 | Containment Manager | **HiCom** |
 | Biohazard Director | **HiCom** |
