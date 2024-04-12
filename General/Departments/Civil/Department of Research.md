@@ -35,8 +35,8 @@
 | Trainee Researcher | **LR** |
 | Junior Researcher | **MR** |
 | Researcher | **MR** |
-| Senior Researcher | **MR** |
-| Expert Researcher | **HR** |
+| Expert Researcher | **MR** |
+| Senior Researcher | **HR** |
 | Head Researcher | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
