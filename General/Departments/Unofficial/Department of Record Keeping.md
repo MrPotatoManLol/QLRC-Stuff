@@ -23,7 +23,6 @@
 | Senior Archivist | **MR** |
 | Head Archivist | **HR** |
 | Secretary | **HR** |
-| Administration Representative | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
 | Overwatch | **Overwatch** |

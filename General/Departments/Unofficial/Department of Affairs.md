@@ -1,4 +1,4 @@
-# Department of Affairs
+# Department of Diplomatic Affairs
 
 **Department Type:** Civil
 
@@ -23,7 +23,6 @@
 | Senior Advisor | **MR** |
 | Ambassador | **HR** |
 | Secretary | **HR** |
-| Administration Representative | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
 | Overwatch | **Overwatch** |
