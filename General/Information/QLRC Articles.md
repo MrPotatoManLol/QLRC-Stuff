@@ -283,3 +283,80 @@ Operations Personnel → Regulations Personnel → Security Personnel
 *ii) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
 
 *iii) Regulations Personnel can not be declared Detain on Sight, except by order of the Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.*
+
+
+
+
+# Article 4: Codes and Protocols
+
+## Section 1: Codes
+
+1) CODE ORANGE
+
+*a) During Code Orange, personnel are to continue normal duties and report any suspicious activity. Security Personnel are to sweep the site and terminate any hostile threat.*
+
+2) CODE RED
+
+*a) During Code Red, all personnel are to report to the Breach Shelter and await further instruction. Read Section 3 for more information.*
+
+3) CODE BLACK
+
+*a) Full Site lockdown. All personnel are to report to the breach shelter and await further instruction.*
+
+## Section 2: Protocols
+
+1) PROTOCOL GREENSCREEN
+
+*a) Site operations are to continue as normal.*
+
+2) PROTOCOL SHARP BLADE
+
+*a) Active Research Subject riot, Non-Combative Personnel are to exit the Research Subject Housing area until Protocol Sharp Blade is deactivated.*
+
+3) PROTOCOL GUNFIGHT
+
+*a) Active hostile raid. All Non-Combative Personnel are to report to the Breach Shelter and await further instruction.*
+
+4) NUCLEAR DETONATION
+
+*a) Full site lockdown. All personnel are to report to the Nuclear Shelter and await further instruction. Read Section 4 for more information.*
+
+## Section 3: Breach Protocol
+
+In the event of a containment breach, Code Red will be declared. All personnel are to report to the breach shelter and await further instruction.  
+The breach shelter will be sealed after 90 seconds (announced in radio as 90 60 30 Closed). Personnel unable to make it to the breach shelter are expected to remain in their spawn unless told otherwise by a member of the Biohazard Containment Unit or Executive Personnel.  
+The breach shelter will not be opened unless ordered by a member of the Biohazard Containment Unit or Executive Personnel.  
+The only personnel excempt from these rules are Operations Personnel, Executive Personnel, and members of the Biohazard Containment Unit.
+
+## Section 4: Nuclear Detonation
+
+In the event the Nuclear Warhead is detonated, all personnel are to report to the nuclear shelter. Personnel are expected to follow any orders given to them by Security Personnel.  
+The nuclear shelter will close automatically approximately 15 seconds before The Nuclear Warhead detonates (approx. 120 seconds after initial detonation announcement).
+
+
+
+
+# Article 5: Closing Statement
+
+## Section 1: Additional Information
+
+For any questions or concerns regarding the regulations stated in this document, contact a member of the Regulations Department Legislative Branch stating your inquiry.
+
+## Section 2: Signatures and Approval
+
+- **MrPotatOfficial**, The Administrator
+
+- **(Pending)**, Operations Commandant, Department of Operations
+- **(Pending)**, Regulations Overwatch, Regulations Department
+- **(Pending)**, Security Overwatch, Department of Security
+- **(Pending)**, Research Overwatch, Department of Research
+- **(Pending)**, Engineering Overwatch, Department of Engineering
+
+- **(Pending)**, Operations Director, Department of Operations
+- **(Pending)**, Executive Agent, Department of Operations
+
+- **(Pending)**, Regulations Director, Regulations Department
+- **(Pending)**, Executive Director, Regulations Department
+
+- **(Pending)**, Security Director, Department of Security
+- **(Pending)**, Security Commander, Department of Security
