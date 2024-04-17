@@ -357,6 +357,13 @@ For any questions or concerns regarding the regulations stated in this document,
 
 - **(Pending)**, Regulations Director, Regulations Department
 - **(Pending)**, Executive Director, Regulations Department
+- **(Pending)**, Chief Legislator, Regulations Department
 
 - **(Pending)**, Security Director, Department of Security
 - **(Pending)**, Security Commander, Department of Security
+
+-  **(Pending)**, Director, Department of Research
+-  **(Pending)**, Executive Director, Department of Research
+
+-  **(Pending)**, Director, Department of Engineering
+-  **(Pending)**, Executive Director, Department of Research
