@@ -22,7 +22,6 @@
 | Senior Regulations Official |  | **CL-X** | **Administrator** | **N/A** |
 | Chief Regulations Officer |  | **CL-X** | **Head Administrator** | **N/A** |
 | Community Manager |  | **CL-X** | **Reserved** | **N/A** |
-| Development Team |  | **CL-X** | **Reserved** | **N/A** |
 | Chief Executive Officer |  | **CL-X** | **Reserved** | **N/A** |
 
 ---
