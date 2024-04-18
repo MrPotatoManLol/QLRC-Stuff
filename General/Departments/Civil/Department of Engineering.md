@@ -18,9 +18,8 @@
 |:---:|:---:|:---:|:---:|:---:|
 | **Department of Engineering** | **Testers Only** |  |  |  |
 | Apprentice |  | **CL-X** | **N/A** | **N/A** |
-| Junior Engineer |  | **CL-X** | **N/A** | **N/A** |
-| Engineer |  | **CL-X** | **N/A** | **N/A** |
-| Senior Engineer |  | **CL-X** | **N/A** | **N/A** |
+| QA Tester |  | **CL-X** | **N/A** | **N/A** |
+| Contributor |  | **CL-X** | **N/A** | **N/A** |
 | Junior Developer |  | **DEV** | **N/A** | **N/A** |
 | Developer |  | **DEV** | **N/A** | **N/A** |
 | Head Developer |  | **DEV** | **N/A** | **N/A** |
