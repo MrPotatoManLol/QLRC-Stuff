@@ -103,7 +103,7 @@
 *i) Corporation Personnel are not allowed to provide any weapons or tools to any group that is hostile to QLRC.*
 
 ## Section 2: Behavior On-Site
-> Any rule stated within this section is to be followed at all times within any QLRC site. This includes the current site for QLRC, Research Area 11.
+> Any rule stated within this section is to be followed at all times within any QLRC site. This includes the current site for QLRC, Research Area 7.
 
 1) TRESPASSING:
 
