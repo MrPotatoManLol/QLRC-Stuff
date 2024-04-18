@@ -21,9 +21,9 @@
 | Junior Engineer |  | **CL-X** | **N/A** | **N/A** |
 | Engineer |  | **CL-X** | **N/A** | **N/A** |
 | Senior Engineer |  | **CL-X** | **N/A** | **N/A** |
-| Technician |  | **CL-X** | **N/A** | **N/A** |
-| Supervisor |  | **Staff** | **N/A** | **N/A** |
-| Engineering Director |  | **Staff** | **N/A** | **N/A** |
+| Junior Developer |  | **DEV** | **N/A** | **N/A** |
+| Developer |  | **DEV** | **N/A** | **N/A** |
+| Head Developer |  | **DEV** | **N/A** | **N/A** |
 
 ---
 
