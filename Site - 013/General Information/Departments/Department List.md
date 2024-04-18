@@ -18,9 +18,9 @@
 | Junior Engineer |  | **CL-X** | **N/A** | **N/A** |
 | Engineer |  | **CL-X** | **N/A** | **N/A** |
 | Senior Engineer |  | **CL-X** | **N/A** | **N/A** |
-| Junior Developer |  | **Staff** | **N/A** | **N/A** |
-| Developer |  | **Staff** | **N/A** | **N/A** |
-| Head Developer |  | **Staff** | **N/A** | **N/A** |
+| Junior Developer |  | **DEV** | **N/A** | **N/A** |
+| Developer |  | **DEV** | **N/A** | **N/A** |
+| Head Developer |  | **DEV** | **N/A** | **N/A** |
 
 ## Civil Departments
 
