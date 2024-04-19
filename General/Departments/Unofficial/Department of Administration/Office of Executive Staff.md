@@ -1,4 +1,4 @@
-# Diplomatic Affairs
+# Office of Executive Staff
 
 **Department:** Department of Administration  
 **Division Name:** Office of Executive Staff
