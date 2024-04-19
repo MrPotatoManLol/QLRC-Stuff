@@ -30,8 +30,8 @@
 |:---:|:---:|
 | Financial Staff | **LR** |
 | Branch Staff | **LR** |
-| Administrative Staff | **MR** |
-| Chief Legislator | **HR** |
+| Legislative Personnel | **MR** |
+| Administrative Staff | **HR** |
 | Chief of Staff | **HR** | 
 | Facility Director | **HiCom** |
 | Chief of Administration | **Directorate** |

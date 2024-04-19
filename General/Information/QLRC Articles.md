@@ -25,7 +25,9 @@
 
 **Administrative Personnel:** Anyone within the Department of Administration ranked *Administrative Staff* or higher.
 
-**Branch Personnel:** Anyone within a branch of the Department of Administration.
+**Legislative Personnel:** Anyone within the Department of Administration ranked *Legislative Personnel*.
+
+**Branch Personnel:** Anyone within the Department of Administration ranked *Branch Staff*.
 
 **Facility Director:** Anyone within the Department of Administration ranked *Facility Director*.
 
@@ -370,11 +372,11 @@ Any Corporation Personnel may request a change to the QLRC Articles, without fac
 
 In voting to change any rule stated in this document, The Administrator falls under the same authority as members of the Overwatch Council, unless explicitly required to overthrow authority.
 
-Changing sections stated in Article 2 require approval from at least 3 personnel listed below.
+Changing sections stated in Article 2 require majority approval by Legislative Personnel or at least 3 Personnel listed below.
 
 Rules stated under Article 3 require 1 approval from all related department directorates.
 
-Changing sections stated in Article 4 require a majority approval from Administrative Personnel.
+Changing sections stated in Article 4 require a majority approval from Legislative Personnel.
 
 By majority approval of the Overwatch Council, any section and/or subsection may be changed.
 
