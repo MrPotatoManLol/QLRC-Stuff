@@ -370,6 +370,14 @@ Any Corporation Personnel may request a change to the QLRC Articles, without fac
 
 In voting to change any rule stated in this document, The Administrator falls under the same authority as members of the Overwatch Council, unless explicitly required to overthrow authority.
 
+Changing sections stated in Article 2 require approval from at least 3 personnel listed below.
+
+Rules stated under Article 3 require 1 approval from all related department directorates.
+
+Changing sections stated in Article 4 require a majority approval from Administrative Personnel.
+
+By majority approval of the Overwatch Council, any section and/or subsection may be changed.
+
 ## Section 2: Signatures and Approval
 
 - **MrPotatOfficial**, The Administrator
