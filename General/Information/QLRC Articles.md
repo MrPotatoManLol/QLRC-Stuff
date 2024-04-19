@@ -23,7 +23,7 @@
 
 **Regulations Personnel:** Anyone within the Regulations Department
 
-**Administrative Personnel:** Anyone within the Department of Administration.
+**Administrative Personnel:** Anyone within the Department of Administration ranked *Administrative Staff* or higher.
 
 **Branch Personnel:** Anyone within a branch of the Department of Administration.
 
