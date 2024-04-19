@@ -33,7 +33,7 @@
 
 *b) Class - O is the second highest ranking clearance in QLRC. The Class - O is shortened to CL-O, and has access to all QLRC documents that are not restricted by CL-X.*
 
-*c) Class - 4 is the highest obtainable clearance in QLRC without administrative powers. Personnel with CL-5 are usually HiCom within a department.*
+*c) Class - 4 is the highest obtainable clearance in QLRC without administrative powers. Personnel with CL-4 are usually HiCom within a department.*
 
 *d) Class - 0 to Class - 3 are personnel within QLRC with no benefits, aside from higher classes granting access to more documents and locations.*
 
