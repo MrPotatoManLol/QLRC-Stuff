@@ -27,6 +27,8 @@
 
 **Branch Personnel:** Anyone within a branch of the Department of Administration.
 
+**Facility Director:** Anyone within the Department of Administration ranked *Facility Director*.
+
 ## Section 2: General Rules
 > General rules that, no matter the case, stand above all other stated Articles in this document.  
 > Rules stated in this document apply to actions considered On-Site, and are only enforceable for actions taken in public servers. This document is exempt from private servers.
@@ -72,6 +74,8 @@
 5) DEPARTMENTAL GUIDELINES:
 
 *a) Departmental Personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.*
+
+*b) Administrative Personnel are exempt from most Articles stated in this document.*
 
 
 
@@ -137,9 +141,9 @@
 
 *a) Corporation Personnel designated "Kill on Sight" (KoS) may be terminated at any time by any Corporation Personnel.*
 
-*i) All personnel within the Department of Operations and personnel ranking CL-X reserve the ability to designate personnel "Kill on Sight".*
+*i) All personnel within the Department of Operations, Facility Directors, and personnel ranking CL-X reserve the ability to designate personnel "Kill on Sight".*
 
-*ii) Personnel within the Department of Operations and personnel ranking CL-O or above may not be designated "Kill on Sight" except by order of the Overwatch Council.*
+*ii) Operations Personnel, Administrative Personnel, and Executive Personnel may not be designated "Kill on Sight" except by order of the Overwatch Council.*
 
 ## Section 3: On-Site Command
 > The following section defines the hierarchy of authority while On-Site in terms of commands, permissions, and access.
@@ -147,22 +151,22 @@
 
 1) GENERAL AUTHORITY
 
-Personnel ranking CL-X → Personnel ranking CL-O → Operations Personnel
+Personnel ranking CL-X → Personnel ranking CL-O → Administrative Personnel → Operations Personnel → Executive Personnel
 
 > The following defines authority while on-site, unless overridden by another sub-section stated in this document.
 
-Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Executive Personnel → Personnel not yet listed
+Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Personnel not yet listed
 
-*a) Authority of personnel ranking CL-O can be overridden by members of the Department of Operations ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
+*a) Authority of Executive Personnel and Administrative Personnel can be overridden by members of the Department of Operations ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
 
 
 2) ON-SITE AUTHORITY
 
 *a) Administrative Sector*  
-Regulations Personnel → Security Personnel in the division "Command Protection Unit" → Security Personnel → Executive Personnel → Personnel not yet listed
+All Administrative Personnel → Regulations Personnel → Security Personnel in the division "Command Protection Unit" → Security Personnel → Executive Personnel → Personnel not yet listed
 
 *b) Executive Sector*
-Personnel ranking CL-O → Departmental HiCom Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulations Personnel → Executive Personnel → Security Personnel → Personnel not yet listed
+Administrative Personnel → Executive Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulations Personnel → Security Personnel → Personnel not yet listed
 
 *c) Outside Access*  
 Security Personnel ranking "Security Supervisor" or above → Security Personnel in the division "Emergency Response Team" → Security Personnel → Regulations Personnel → Personnel not yet listed
@@ -181,11 +185,11 @@ Security personnel ranking "Security Commander" or above → Security Personnel 
 
 3) AUTHORITY DURING CONTAINMENT BREACH
 
-Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or above → Personnel ranking CL-O → Security Personnel → Regulations Personnel → Personnel not yet listed
+Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or above → Administrative/Executive Personnel → Security Personnel → Regulations Personnel → Personnel not yet listed
 
 4) AUTHORITY DURING EVACUATION
 
-Security Personnel in the division "Emergency Response Team" → Security Personnel ranking "Security Commander" or above → Security Personnel → Regulations Personnel → Personnel ranking CL-O → Personnel not yet listed
+Security Personnel in the division "Emergency Response Team" → Security Personnel ranking "Security Commander" or above → Security Personnel → Administrative/Executive Personnel → Regulations Personnel → Personnel not yet listed
 
 5) AUTHORITY DURING ON-SITE HOSTILE THREAT
 
@@ -193,7 +197,7 @@ Security Personnel → Regulations Personnel → Personnel not yet listed
 
 6) AUTHORITY DEALING WITH RULE VIOLATORS
 
-Operations Personnel → Regulations Personnel → Security Personnel
+Operations Personnel → Administrative Personnel → Regulations Personnel → Security Personnel
 
 
 
@@ -288,7 +292,7 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *a) Regulations Personnel ranking "Regulations Supervisor" and higher reserve the right to declare Corporation Personnel as "Detain on Sight."*
 
-*i) Operations Personnel, Executive Personnel, and members of the Overwatch Council can not be declared Detain on Sight, except by order of the Overwatch Council.*
+*i) Operations Personnel, Administrative/Executive Personnel, and members of the Overwatch Council can not be declared Detain on Sight, except by order of the Overwatch Council.*
 
 *ii) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
 
@@ -298,7 +302,7 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 1) ADMINISTRATIVE AUTHORITY
 
-*a) Administrative Personnel may bypass any subsection in Article 3.*
+*a) Administrative Personnel are excluded from all subsections in Article 3.*
 
 *i) Branch Personnel are not included as Administrative Personnel.*
 
