@@ -5,8 +5,8 @@
 
 **Description:** N/A
 
-**Join Requirements:** N/A  
-**Join Process:** N/A
+**Join Requirements:** CL-1  
+**Join Process:** Application/Interview
 
 ---
 
@@ -26,4 +26,3 @@
 | Secretary | **HR** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
-| Overwatch | **Overwatch** |

@@ -13,6 +13,26 @@ CL-3 to CL-5 are reserved for Departmental Personnel, and personnel can not appl
 
 # Classes in each Department
 
+## Department of Administration
+*Financial Staff through Executive Staff* - **Current Class**  
+*Administrative Staff through Chief Legislator* - **CL-4**  
+*Chief of Staff* - **CL-5**  
+*Facility Director through Chief of Administration* - **CL-O**
+
+## Office of Diplomatic Affairs
+*Intern through Junior Advisor* - **Current Class**  
+*Advisor through Senior Advisor* - **CL-3**  
+*Ambassador through Secretary* - **CL-4**  
+*Executive Director through Director* - **CL-5**
+
+## Office of Records Keeping
+*Intern to Junior Archivist* - **Current Class**  
+*Archivist to Senior Archivist* - **CL-3**  
+*Head Archivist* - **CL-4**  
+*Executive Director through Director* - **CL-4**
+
+---
+
 ## Department of Engineering
 *Apprentice through Senior Engineer* - **Current Class**  
 *Technician through Senior Technician* - **CL-3**  

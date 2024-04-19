@@ -6,7 +6,7 @@
 **Description:** N/A
 
 **Join Requirements:** N/A  
-**Join Process:** N/A
+**Join Process:** Handpicked (RA-7)
 
 ---
 
@@ -20,6 +20,7 @@
 |:---:|:---:|
 | Executive Assistant | **N/A** |
 | Executive Staff | **N/A** |
+| Executive Personnel | **N/A** |
 | Departmental High Command | **N/A** |
 | Facility Director | **HiCom** |
 | Chief of Administration | **Directorate** |
