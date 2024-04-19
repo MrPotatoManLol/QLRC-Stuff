@@ -4,7 +4,7 @@
 
 **Description:** The Department of Administration is composed of high ranking QLRC personnel tasked with overseeing the operations that occur every day on QLRC sites. The Department of Administration manages diplomatic affairs, as well as the creation of new articles and regulations.
 
-**Join Requirements:** N/A
+**Join Requirements:** N/A  
 **Join Process:** Handpicked (RA-7)
 
 ---
