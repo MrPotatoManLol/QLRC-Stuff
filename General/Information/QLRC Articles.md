@@ -352,6 +352,9 @@ For any questions or concerns regarding the regulations stated in this document,
 - **(Pending)**, Research Overwatch, Department of Research
 - **(Pending)**, Engineering Overwatch, Department of Engineering
 
+- **(Pending)**, Chief of Administration, Department of Administration
+- **(Pending)**, Facility Director, Department of Administration
+
 - **(Pending)**, Operations Director, Department of Operations
 - **(Pending)**, Executive Agent, Department of Operations
 

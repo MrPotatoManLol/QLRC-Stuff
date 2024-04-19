@@ -34,6 +34,5 @@
 | Chief Legislator | **HR** |
 | Chief of Staff | **HR** | 
 | Facility Director | **HiCom** |
-| Administrative Director | **Directorate** |
 | Chief of Administration | **Directorate** |
 | The Administrator | **Overwatch** |
