@@ -362,7 +362,13 @@ The nuclear shelter will close automatically approximately 15 seconds before The
 
 ## Section 1: Additional Information
 
-For any questions or concerns regarding the regulations stated in this document, contact a member of the Regulations Department Legislative Branch stating your inquiry.
+For any questions or concerns regarding the regulations stated in this document, contact a member of the Department of Administration Legislative Branch stating your inquiry.
+
+## Section 2: Changing the QLRC Articles
+
+Any Corporation Personnel may request a change to the QLRC Articles, without facing punishment for the suggestion.
+
+In voting to change any rule stated in this document, The Administrator falls under the same authority as members of the Overwatch Council, unless explicitly required to overthrow authority.
 
 ## Section 2: Signatures and Approval
 
