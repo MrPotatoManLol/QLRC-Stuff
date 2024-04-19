@@ -11,9 +11,9 @@
 
 ---
 
-**Corporation Personnel:** Anyone holding the rank CL-0 to CL-5 within QLRC
+**Corporation Personnel:** Anyone holding the rank CL-0 to CL-3 within QLRC
 
-**Executive Personnel:** Anyone holding the rank CL-O within QLRC
+**Executive Personnel:** Anyone holding the rank CL-4 and above within QLRC
 
 **Research Personnel:** Anyone within the Department of Research
 
