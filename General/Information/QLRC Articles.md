@@ -369,4 +369,4 @@ For any questions or concerns regarding the regulations stated in this document,
 -  **(Pending)**, Executive Director, Department of Research
 
 -  **(Pending)**, Director, Department of Engineering
--  **(Pending)**, Executive Director, Department of Research
+-  **(Pending)**, Executive Director, Department of Engineering
