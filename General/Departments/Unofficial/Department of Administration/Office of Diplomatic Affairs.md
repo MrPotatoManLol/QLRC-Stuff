@@ -1,6 +1,7 @@
-# Department of Diplomatic Affairs
+# Office of Diplomatic Affairs
 
-**Department Type:** Civil
+**Department:** Department of Administration  
+**Division Name:** Office of Diplomatic Affairs
 
 **Description:** N/A
 

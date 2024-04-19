@@ -1,6 +1,7 @@
-# Department of Record Keeping
+# Office of Records Keeping
 
-**Department Type:** Civil
+**Department:** Department of Administration  
+**Division Name:** Office of Records Keeping
 
 **Description:** N/A
 

@@ -28,18 +28,12 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Administrative Staff | **N/A** |
-| Executive Assistant | **N/A** |
-| Executive Personnel | **N/A** |
-| Departmental High Command | **N/A** |
-| Facility Administration | **N/A** |
-| Facility Director | **N/A** |
-| Class - X Overwatch | **N/A** |
-| Executive Director | **Directorate** |
+| Financial Staff | **LR** |
+| Executive Staff | **MR** |
+| Administrative Staff | **MR** |
+| Chief Legislator | **HR** |
+| Chief of Staff | **HR** | 
+| Facility Director | **HiCom** |
 | Administrative Director | **Directorate** |
 | Chief of Administration | **Directorate** |
 | The Administrator | **Overwatch** |
-
----
-
-Personnel within the Department of Administration (aside from Department Directorate) do not hold authority over one another, therefore there is no rank structure within the Department of Administration, aside from Department Directorate ranks.
