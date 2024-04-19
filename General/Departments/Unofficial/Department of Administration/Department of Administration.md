@@ -29,7 +29,7 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Financial Staff | **LR** |
-| Executive Staff | **MR** |
+| Branch Staff | **LR** |
 | Administrative Staff | **MR** |
 | Chief Legislator | **HR** |
 | Chief of Staff | **HR** | 

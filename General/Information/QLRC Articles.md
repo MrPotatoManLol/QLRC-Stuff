@@ -23,6 +23,10 @@
 
 **Regulations Personnel:** Anyone within the Regulations Department
 
+**Administrative Personnel:** Anyone within the Department of Administration.
+
+**Branch Personnel:** Anyone within a branch of the Department of Administration.
+
 ## Section 2: General Rules
 > General rules that, no matter the case, stand above all other stated Articles in this document.  
 > Rules stated in this document apply to actions considered On-Site, and are only enforceable for actions taken in public servers. This document is exempt from private servers.
@@ -256,11 +260,17 @@ Operations Personnel → Regulations Personnel → Security Personnel
 
 *b) All testing must not result in death of Corporation Personnel*
 
+*c) Executive Personnel, Regulations Personnel, Administrative Personnel, and Operations Personnel reserve the right to question any Research Personnel regarding a test.*
+
+*i) Research Personnel are required to answer truthfully to the best of their ability.*
+
 2) TEST SPECTATING
 
-*a) Executive Personnel, Regulations Personnel, and Operations Personnel reserve the right to question any Research Personnel regarding a test.*
+*a) Corporation Personnel ranking CL-1 and above are allowed to request to spectate a test.
 
-*i) Research personnel are required to answer truthfully to the best of their ability.*
+*i) Corporation Personnel ranking CL-4 may spectate a test without requesting permission, unless said test is located in Sector 4.
+
+*ii) Corporation Personnel ranking CL-5 and above or Administrative Personnel may spectate any test without requesting permission for any sector.
 
 3) RETURNING RESEARCH SUBJECTS
 
@@ -283,6 +293,14 @@ Operations Personnel → Regulations Personnel → Security Personnel
 *ii) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
 
 *iii) Regulations Personnel can not be declared Detain on Sight, except by order of the Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.*
+
+## Section 6: Department of Administration
+
+1) ADMINISTRATIVE AUTHORITY
+
+*a) Administrative Personnel may bypass any subsection in Article 3.*
+
+*i) Branch Personnel are not included as Administrative Personnel.*
 
 
 
