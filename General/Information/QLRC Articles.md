@@ -147,7 +147,7 @@ Personnel ranking CL-X → Personnel ranking CL-O → Operations Personnel
 
 > The following defines authority while on-site, unless overridden by another sub-section stated in this document.
 
-Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Personnel ranking CL-5 → Personnel not yet listed
+Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Executive Personnel → Personnel not yet listed
 
 *a) Authority of personnel ranking CL-O can be overridden by members of the Department of Operations ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
 
@@ -155,10 +155,10 @@ Regulations Personnel ranking "Regulations Official" or higher → Security Pers
 2) ON-SITE AUTHORITY
 
 *a) Administrative Sector*  
-Regulations Personnel → Security Personnel in the division "Command Protection Unit" → Security Personnel → Personnel ranking CL-5 → Personnel not yet listed
+Regulations Personnel → Security Personnel in the division "Command Protection Unit" → Security Personnel → Executive Personnel → Personnel not yet listed
 
 *b) Executive Sector*
-Personnel ranking CL-O → Departmental HiCom Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulations Personnel → Personnel ranking CL-5 → Security Personnel → Personnel not yet listed
+Personnel ranking CL-O → Departmental HiCom Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulations Personnel → Executive Personnel → Security Personnel → Personnel not yet listed
 
 *c) Outside Access*  
 Security Personnel ranking "Security Supervisor" or above → Security Personnel in the division "Emergency Response Team" → Security Personnel → Regulations Personnel → Personnel not yet listed
