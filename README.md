@@ -5,7 +5,7 @@
 ---
 
 ### Links
-[Rules and Regulations](./General/Information/Rules%20and%20Regulations.md)  
+[QLRC Articles](./General/Information/QLRC%20Articles.md)  
 [Departments](./General/Departments/)  
 [Site - 013 Development Stuff](./Site%20-%20013/Development/)  
 &nbsp;&nbsp;&nbsp;&nbsp;[Status](./Site%20-%20013/Development/Development%20Status.md)  
