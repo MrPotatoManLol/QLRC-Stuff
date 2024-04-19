@@ -308,6 +308,7 @@ Operations Personnel → Administrative Personnel → Regulations Personnel → 
 
 *i) Branch Personnel are not included as Administrative Personnel.*
 
+*ii) Legislative Personnel are not included as Administrative Personnel.*
 
 
 
