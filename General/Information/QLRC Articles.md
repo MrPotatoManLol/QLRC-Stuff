@@ -199,7 +199,7 @@ Security Personnel → Regulations Personnel → Personnel not yet listed
 
 6) AUTHORITY DEALING WITH RULE VIOLATORS
 
-Operations Personnel → Administrative Personnel → Regulations Personnel → Security Personnel
+Operations Personnel → Regulations Personnel → Administrative Personnel → Security Personnel
 
 
 
@@ -246,7 +246,7 @@ Operations Personnel → Administrative Personnel → Regulations Personnel → 
 
 *a) Operations Personnel may only override departmental commands given to Corporation Personnel given one of the following holds true:*
 
-*i) The command given will put a member of the Overwatch Council or Executive Personnel in danger.*
+*i) The command given will put a member of the Overwatch Council, Executive Personnel, or Administrative Personnel in danger.*
 
 *ii) The command given will put a member of the Department of Operations in danger.*
 
