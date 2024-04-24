@@ -18,7 +18,7 @@ At least **3** from the Department of Research
 At least **3** from the Regulations Department  
 At least **3** from the Department of Security with at least 1 from each division  
 At least **3** from Hostile Forces with at least 1 from each division 
-At leat **1** Department of Administration Representative
+At least **1** Department of Administration Representative
 At least **1** Personnel Representative
 
 No more than **6** representatives from each department or **3** from each division may be on the Board of Advisors, unless permitted directly by the Overwatch Council.  
