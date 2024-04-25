@@ -182,7 +182,7 @@ Operations Personnel → Personnel ranking CL-O → Other personnel not yet list
 *f) Research Subject Housing*  
 Security Personnel ranking "Master Guard" or above → Regulations Personnel ranking "Regulations Official" or above → Security Personnel → Personnel not yet listed
 
-*g) Sectors 2 and above*  
+*g) Sectors 2, 3, 4*  
 Security personnel ranking "Security Commander" or above → Security Personnel in the division "Biohazard Containment Unit" → Security Personnel → Regulations Personnel → Research Personnel → Personnel not yet listed
 
 3) AUTHORITY DURING CONTAINMENT BREACH
