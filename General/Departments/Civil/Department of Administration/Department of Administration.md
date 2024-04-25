@@ -28,10 +28,10 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Financial Staff | **LR** |
-| Branch Staff | **LR** |
-| Legislative Personnel | **MR** |
-| Administrative Staff | **HR** |
+| Financial Staff | **N/A** |
+| Executive Personnel | **N/A** |
+| Legislative Personnel | **N/A** |
+| Administrative Staff | **N/A** |
 | Chief of Staff | **HR** | 
 | Facility Director | **HiCom** |
 | Chief of Administration | **Directorate** |
