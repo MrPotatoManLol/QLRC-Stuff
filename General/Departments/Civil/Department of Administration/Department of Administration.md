@@ -32,7 +32,7 @@
 | Executive Personnel | **N/A** |
 | Legislative Personnel | **N/A** |
 | Administrative Staff | **N/A** |
-| Chief of Staff | **HR** | 
-| Facility Director | **HiCom** |
-| Chief of Administration | **Directorate** |
+| Chief of Staff | **HiCom** | 
+| Chief of Administration | **HiCom** |
+| Facility Director | **Directorate** |
 | The Administrator | **Overwatch** |
