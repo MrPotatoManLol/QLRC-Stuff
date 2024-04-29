@@ -23,389 +23,238 @@
 
 **Regulations Personnel:** Anyone within the Regulations Department
 
-**Administrative Personnel:** Anyone within the Department of Administration ranked *Administrative Staff* or higher.
+**Administrative Personnel:** Anyone within the Department of Administration ranked *“Administrative Staff"* or higher. Administrative Staff are usually ranked CL-5 and above and have access to Administrative Controls.
 
-**Legislative Personnel:** Anyone within the Department of Administration ranked *Legislative Personnel*.
+**Branch Personnel:** Anyone within a branch of the Department of Administration. Usually ranked *“Branch Personnel”* within the Department of Administration.
 
-**Branch Personnel:** Anyone within the Department of Administration ranked *Branch Staff*.
+**Executive Personnel:** Anyone within the Department of Administration ranked *“Executive Personnel.”* Executive Personnel are usually ranked CL-4 and above and do not have access to Administrative Controls.
 
-**Facility Director:** Anyone within the Department of Administration ranked *Facility Director*.
+**Facility Director:** Anyone within the Department of Administration ranked *“Facility Director.”*
 
-## Section 2: General Rules
-> General rules that, no matter the case, stand above all other stated Articles in this document.  
-> Rules stated in this document apply to actions considered On-Site, and are only enforceable for actions taken in public servers. This document is exempt from private servers.
+---
 
-1) ACCESS LEVELS:
+## Secction 2: General Rules
+> General rules that, no matter the case, stand above all other stated Articles in this document.
+> Rules stated in this document apply to actions considered on-site, and are only enforceable for actions taken in public servers. This document is exempt from private servers.
 
-*a) Class - X is the highest-ranking clearance in QLRC. The Class - X is shortened to CL-X or the Overwatch Council. The QLRC Articles do not apply to members ranking Class - X.*
+---
 
-*b) Class - O is the second highest ranking clearance in QLRC. The Class - O is shortened to CL-O, and has access to all QLRC documents that are not restricted by CL-X.*
+#### 2.1) ACCESS LEVELS
+**2.1.a)** Class - X is the highest-ranking clearance in QLRC. The Class - X is shortened to CL-X or the Overwatch Council. The QLRC Articles do not apply to members ranking Class - X.
 
-*c) Class - 4 is the highest obtainable clearance in QLRC without administrative powers. Personnel with CL-4 are usually HiCom within a department.*
+**2.1.b)** Class - O is the second highest ranking clearance in QLRC. The Class - O is shortened to CL-O, and has access to all QLRC documents that are not restricted by CL-X.
 
-*d) Class - 0 to Class - 3 are personnel within QLRC with no benefits, aside from higher classes granting access to more documents and locations.*
+**2.1.c)** Class - 4 is the highest obtainable clearance in QLRC without administrative powers. Personnel with CL-4 are usually HiCom within a department.
 
-2) CLASS - E CLASSIFICATION:
+**2.1.d)** Class - 2 is the highest obtainable clearance through applications. Personnel ranking above CL-2 are usually Medium/High Command members within a department.
 
-*a) The Class - E rank is given to Corporation Personnel who have been found to have violated the QLRC Articles stated in this document.*
+**2.1.e)** Class - 0 to Class - 2 are personnel within QLRC with no benefits, aside from higher classes granting access to more documents and locations.
 
-3) HIGH COMMAND RANKS IN EACH DEPARTMENT:
+#### 2.2) CLASS - E CLASSIFICATION
+**2.2)** The Class - E rank is given to Corporation Personnel who have been found to have violated the QLRC Articles stated in this document.
 
-*a) Department of Operations Personnel ranking "Executive Agent"*
+#### 2.3) HIGH COMMAND RANKS IN EACH DEPARTMENT
+**2.3.a)** Department of Operations Personnel ranking *"Executive Agent"*
 
-*b) Department of Engineering Personnel ranking "Head Engineer"*
+**2.3.b)** Department of Engineering Personnel ranking *"Head Engineer"*
 
-*c) Department of Research Personnel ranking "Head Researcher"*
+**2.3.c)** Department of Research Personnel ranking *"Head Researcher"*
 
-*d) Regulations Department Personnel ranking "Head Regulator" to "Regulations Management"*
+**2.3.d)** Regulations Department Personnel ranking *"Head Regulator"* to *"Regulations Management"*
 
-*e) Department of Security Personnel ranking "Security Supervisor" to "Security Captain"*
+**2.3.e)** Department of Security Personnel ranking *"Security Supervisor"* to *"Security Captain"*
 
-4) DIRECTORATE RANKS IN EACH DEPARTMENT:
 
-*a) Department of Operations Personnel ranking "Operations Director"*
+#### 2.4) DIRECTORATE RANKS IN EACH DEPARTMENT
+**2.4.a)** Department of Operations Personnel ranking *"Operations Director"*
 
-*b) Department of Engineering Personnel ranking "Executive Director" to "Director"*
+**2.4.b)** Department of Engineering Personnel ranking *"Executive Director"* to *"Director"*
 
-*c) Department of Research Personnel ranking "Executive Director" to "Director"*
+**2.4.c)** Department of Research Personnel ranking *"Executive Director"* to *"Director"*
 
-*d) Regulations Department Personnel ranking "Executive Director" to "Regulations Director"*
+**2.4.d)** Regulations Department Personnel ranking *"Executive Director"* to *"Regulations Director"*
 
-*e) Department of Security Personnel ranking "Security Commander" to "Security Director"*
+**2.4.e)** Department of Security Personnel ranking *"Security Commander"* to *"Security Director"*
 
-5) DEPARTMENTAL GUIDELINES:
-
-*a) Departmental Personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.*
-
-*b) Administrative Personnel are exempt from most Articles stated in this document.*
-
+#### 2.5) DEPARTMENTAL GUIDELINES
+**2.5.a)** Departmental Personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.
 
 
 
 # Article 2: Conduct
-> Any rule stated within this article is to be followed at all times by all personnel applicable to the QLRC Articles from the time said personnel joined QLRC to the time they leave QLRC.
+>Any rule stated within this article is to be followed at all times by all personnel applicable to the QLRC Articles from the time said personnel joined QLRC to the time they leave QLRC.
+
+---
 
 ## Section 1: Overall Conduct
-> Any rule stated within this section is to be followed at all times within any QLRC communication server or game.
+>Any rule stated within this section is to be followed at all times within any QLRC communication server or game.
 
-1) PERSONNEL BEHAVIOR:
+---
 
-*a) Corporation Personnel are expected to treat other Corporation Personnel respectfully, and without any discrimination.*
+#### 1.1) PERSONNEL BEHAVIOR
+**1.1.a)** Corporation Personnel are expected to treat other Corporation Personnel respectfully, and without any discrimination.
 
-*b) Corporation Personnel are expected to remain mature while on-site.*
+**1.1.b)** Corporation Personnel are expected to remain mature while on-site.
 
-*c) Hate speech of any departments in QLRC are covered by this rule.*
+**1.1.c)** Hate speech of any departments in QLRC are covered by this rule.
 
-2) IMPERSONATION:
+#### 1.2) IMPERSONATION
+**1.2.a)** Corporation Personnel are not allowed to impersonate any personnel or hostile forces within any QLRC communication server or game. Impersonation includes, but is not limited to:
 
-*a) Corporation Personnel are not allowed to impersonate any personnel or hostile forces within any QLRC communication server or game. Impersonation includes, but is not limited to:*
+**1.2.a.i)** Wearing a departments uniform of something resembling a departments uniform without being a member of said department.
 
-*i) Wearing a departments uniform of something resembling a departments uniform without being a member of said department.*
+**1.2.a.ii)** Stating you are a member of a department when you are not.
 
-*ii) Stating you are a member of a department when you are not.*
+**1.2.a.iii)** Acting on behalf of a department or individual without specific permission given by the department command or individual.
 
-*iii) Acting on behalf of a department or indicidual without specific permission given by the department command or individual.*
+**1.2.a.iv)** Administrative Personnel are exempt from this rule.
 
-3) COOPERATION WITH HOSTILE FORCES:
+#### 1.3) COOPERATION WITH HOSTILE FORCES
+**1.3.a)** Corporation Personnel are not allowed to cooperate with any group that is hostile to QLRC.
 
-*a) Corporation Personnel are not allowed to cooperate with any group that is hostile to QLRC.*
+**1.3.a.i)** Corporation Personnel are not allowed to provide any weapons or tools to any group that is hostile to QLRC.
 
-*i) Corporation Personnel are not allowed to provide any weapons or tools to any group that is hostile to QLRC.*
+---
 
 ## Section 2: Behavior On-Site
-> Any rule stated within this section is to be followed at all times within any QLRC site. This includes the current site for QLRC, Research Area 7.
+>Any rule stated within this section is to be followed at all times within any QLRC site. This includes the current site for QLRC, Research Area 7.
 
-1) TRESPASSING:
+---
 
-*a) Trespassing is defined as: personnel attempting to, or gaining access to a location which said personnel, given their current assigned department, clearance, and department rank, do not have access to.*
+#### 2.0) PRE-STATEMENTS
+**2.0.a)** Administrative Personnel and Personnel within the Manufacturing Branch are exempt from rules in this document while on-team and on-site.
 
-*b) Corporation Personnel may not trespass into locations where said personnel do not have access to.*
+#### 2.1) TRESPASSING
+**2.1.a)** Trespassing is defined as: personnel attempting to, or gaining access to a location which said personnel, given their current assigned department, clearance, and department rank, do not have access to.
 
-*i) Personnel found in areas restricted to the Department of Operations or the Overwatch Council will recieve an immediate CL-E sentence.*
+**2.1.b)** Corporation Personnel may not trespass into locations where said personnel do not have access to.
 
-*c) Authorization of personnel to enter an area they do not have access to depends on the situation and location said personnel is in.*
+**2.1.b.i)** Personnel found in areas restricted to the Department of Operations or the Overwatch Council will receive an immediate CL-E sentence.
 
-*i) Personnel in the Regulations Department can enter any area not restricted to the Department of Operations or Overwatch Council to detain personnel.*
+**2.1.c)** Authorization of personnel to enter an area they do not have access to depends on the situation and location said personnel is in.
 
-2) INTERACTING WITH ENTITIES
+**2.1.c.i)** Personnel in the Regulations Department can enter any area not restricted to the Department of Operations or Overwatch Council to detain personnel.
 
-*a) All Corporation Personnel are not allowed to interact with an entity in any way.*
+**2.1.c.ii)** Corporation Personnel may enter any area not restricted to the Overwatch Council if given explicit, undeniable permission and reasoning by Operations Personnel.
 
-3) AVATAR DRESS CODE:
+#### 2.2) INTERACTING WITH ENTITIES
+**2.2.a)** Corporation Personnel are not allowed to interact with an entity in any way.
 
-*a) All Corporation Personnel below CL-O are expected to rules regarding proper attire.*
+**2.2.a.i)** Executive Personnel are exempt from this rule when interacting with entities classified as GREEN or YELLOW.
 
-*b) Any clothing worn must not be immature, inappropriate, suggestive, or descriminative in any way.*
+#### AVATAR DRESS CODE
+**2.3.a)**  All Corporation Personnel are expected to rules regarding proper attire.
 
-*c) Any clothing or accessory must not change the avatar in a way that the avatar is no longer similar to a classic Roblox avatar.*
+**2.3.b)** Any clothing worn must not be immature, inappropriate, suggestive, or discriminative in any way.
 
-4) KILL ON SIGHT:
+**2.3.c)** Any clothing or accessory must not change the avatar in a way that the avatar is no longer similar to a classic Roblox avatar.
 
-*a) Corporation Personnel designated "Kill on Sight" (KoS) may be terminated at any time by any Corporation Personnel.*
+#### 2.4) KILL ON SIGHT
+**2.4.a)** Corporation Personnel designated "Kill on Sight" (KoS) may be terminated at any time by any Corporation Personnel.
 
-*i) All personnel within the Department of Operations, Facility Directors, and personnel ranking CL-X reserve the ability to designate personnel "Kill on Sight".*
+**2.4.a.i)** Operations Personnel and Personnel ranking CL-O and above may designate any personnel below CL-5 as “Kill on Sight”.
 
-*ii) Operations Personnel, Administrative Personnel, and Executive Personnel may not be designated "Kill on Sight" except by order of the Overwatch Council.*
+**2.4.a.ii)** Operations Personnel, Administrative Personnel, and personnel ranking CL-O or above may not be designated "Kill on Sight" except by order of the Overwatch Council.
 
-## Section 3: On-Site Command
-> The following section defines the hierarchy of authority while On-Site in terms of commands, permissions, and access.
-> The first sub-section defines the heirarchy while On-Site, no matter situation, from highest to lowest.
+**2.4.a.iii)** Personnel ranking CL-X may designate any personnel “Kill on Sight”.
 
-1) GENERAL AUTHORITY
+---
 
-Personnel ranking CL-X → Personnel ranking CL-O → Administrative Personnel → Operations Personnel → Executive Personnel
+## Section 3: Authority On-Site
+>The following section defines the hierarchy of authority while On-Site in terms of commands, permissions, and access. 
+>The first sub-section defines the heirarchy while On-Site, no matter situation, from highest to lowest.
 
-> The following defines authority while on-site, unless overridden by another sub-section stated in this document.
+---
 
-Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Personnel not yet listed
+#### 3.1) GENERAL AUTHORITY 
+Personnel ranking CL-X → Facility Director → Operations Personnel
 
-*a) Authority of Executive Personnel and Administrative Personnel can be overridden by members of the Department of Operations ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.*
+>The following defines authority while on-site, unless overridden by another sub-section stated in this document.
 
+Administrative Personnel → Executive Personnel → Regulations Personnel ranking "Regulations Official" or higher → Security Personnel within any division → Regulations Personnel → Security Personnel → Personnel not yet listed
 
-2) ON-SITE AUTHORITY
+>Authority of Executive Personnel can be overridden by Operations Personnel ranking Senior Agent or above, given said personnel is, without reasonable doubt, going rogue or attempting to or succeeding in, causing harm to QLRC and it's operations or personnel.
 
-*a) Administrative Sector*  
-All Administrative Personnel → Regulations Personnel → Security Personnel in the division "Command Protection Unit" → Security Personnel → Executive Personnel → Personnel not yet listed
+#### 3.2) ON-SITE AUTHORITY
+**3.2.a) Administrative Sector**  
+Administrative Personnel → Security Personnel in the division "Command Protection Unit" → Executive Personnel → Regulations Personnel → Security Personnel → Personnel not yet listed
 
-*b) Executive Sector*
-Administrative Personnel → Executive Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulations Personnel → Security Personnel → Personnel not yet listed
+**3.2.b) Executive Sector**  
+Administrative Personnel → Executive Personnel → Regulations Personnel ranking "Senior Regulations Official" or higher → Security Personnel in the division "Command Protection Unit" → Regulatinos Personnel → Security Personnel → Personnel not yet listed
 
-*c) Outside Access*  
+**3.2.a) Outside Access**  
 Security Personnel ranking "Security Supervisor" or above → Security Personnel in the division "Emergency Response Team" → Security Personnel → Regulations Personnel → Personnel not yet listed
 
-*d) Research Sector*  
+**3.2.a) Research Sector**  
 Research Personnel ranking "Executive Director" or above → Security Personnel ranking "Security Supervisor" or higher → Regulations Personnel ranking "Regulations Official" or above → Research Personnel → Security Personnel → Personnel not yet listed
 
-*e) Operations Sector*  
-Operations Personnel → Personnel ranking CL-O → Other personnel not yet listed
+**3.2.a) Operations Sector**  
+Operations Personnel → Administrative Personnel → Other personnel not yet listed
 
-*f) Research Subject Housing*  
+**3.2.a) Research Subject Housing**  
 Security Personnel ranking "Master Guard" or above → Regulations Personnel ranking "Regulations Official" or above → Security Personnel → Personnel not yet listed
 
-*g) Sectors 2, 3, 4*  
+**3.2.g) Sectors 2, 3, and 4**  
 Security personnel ranking "Security Commander" or above → Security Personnel in the division "Biohazard Containment Unit" → Security Personnel → Regulations Personnel → Research Personnel → Personnel not yet listed
 
-3) AUTHORITY DURING CONTAINMENT BREACH
+#### 3.3) AUTHORITY DURING CONTAINMENT BREACH
+Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or above → Executive Personnel → Security Personnel → Regulations Personnel → Personnel not yet listed
 
-Security Personnel in the division "Biohazard Containment Unit" → Security Personnel ranking "Security Director" or above → Administrative/Executive Personnel → Security Personnel → Regulations Personnel → Personnel not yet listed
+#### 3.4) AUTHORITY DURING EVACUATION
+Security Personnel ranking "Security Commander" or above → Security Personnel in the division "Emergency Response Team" → Security Personnel → Regulations Personnel → Personnel not yet listed
 
-4) AUTHORITY DURING EVACUATION
+#### 3.5) AUTHORITY DURING ON-SITE HOSTILE THREAT
+Security Personnel → Executive Personnel → Regulations Personnel → Personnel not yet listed
 
-Security Personnel in the division "Emergency Response Team" → Security Personnel ranking "Security Commander" or above → Security Personnel → Administrative/Executive Personnel → Regulations Personnel → Personnel not yet listed
+#### 3.6) AUTHORITY DEALING WITH RULE VIOLATORS
+Administrative Personnel → Operations Personnel → Regulations Personnel → Security Personnel
 
-5) AUTHORITY DURING ON-SITE HOSTILE THREAT
-
-Security Personnel → Regulations Personnel → Personnel not yet listed
-
-6) AUTHORITY DEALING WITH RULE VIOLATORS
-
-Operations Personnel → Regulations Personnel → Administrative Personnel → Security Personnel
-
-
-
+---
 
 # Article 3: Specific Regulations
 
-## Section 1: General Guidelines
+---
 
-1) RESEARCH SUBJECTS
+## Section 1: General Regulations
 
-*i) Research Subjects are to remain in the Research Subject Housing unless undergoing testing.*
+#### 1.1) RESEARCH SUBJECTS
+**1.1.a)** Research Subjects are to remain in the Research Subject Housing Zone unless undergoing testing.
 
-*ii) Research Subjects reserve the right to decline tests or interviews.*
+**1.1.b)** Research Subjects reserve the right to decline tests or interviews.
 
-2) ASSISTING HOSTILE GROUPS
+#### 1.2) SPECTATING TESTS
+**1.2.a)** Corporation Personnel ranking CL-1 and above are allowed to request to spectate a test.
 
-*i) Personnel caught violating Article 2, Section 1, Sub-Section 3 may be terminated.*
+**1.2.a.i)** Executive Personnel may spectate tests up to Sector 4 without permission.
+
+**1.2.a.ii)** Administrative Personnel and Operations Personnel may specttate any test without permission for any sector.
+
+---
 
 ## Section 2: Department of Security
 
-1) TERMINATION OF CORPORATION PERSONNEL
+#### 2.1) TERMINATION OF CORPORATION PERSONNEL
+**2.1.a)** Corporation Personnel may be terminated if any one of the following conditions are met:
 
-*a) Corporation Personnel may be terminated if the following is met:*
+**2.1.a.i)** Said personnel is violating Article 2, Section 1, Sub-Section 3.
 
-*i) If they are violating Article 2, Section 2, Sub-Section 1 in high-security locations.*
+**2.1.a.ii)** Said personnel is violating Article 2, Section 2, Sub-Section 1 in high security locations.
 
-*ii) If they are designated "Kill on Sight" by Article 2, Section 2, Sub-Section 4.*
+**2.1.a.iii)** Said personnel is violating Article 2, Section 2, Sub-Section 2.
 
-2) TERMINATION OF RESEARCH SUBJECTS
+**2.1.a.iv)** Said personnel is designated “Kill on Sight” by Article 2, Section 2, Sub-Section 4.
 
-*a) Research Subjects may be terminated if any of the following requirements are met.*
+#### 2.2) RESEARCH SUBJECT TERMINATION CRITERIA
+**2.2.a)** 
 
-*i) Said subject has access to use or retrieve contraband.*
+**2.2.a.i)** 
 
-*ii) Said subject attempts to escape.*
+**2.2.a.ii)** 
 
-*iii) Said subject attempts to breach an entity during a test.*
+**2.2.a.iii)** 
 
-*iv) Said subject ignores orders given by the host of a test.*
+**2.2.a.iv)** 
 
-## Section 3: Department of Operations
+**2.2.a.v)** 
 
-1) OVERRIDING REGULATIONS
-
-*a) Operations Personnel may only override departmental commands given to Corporation Personnel given one of the following holds true:*
-
-*i) The command given will put a member of the Overwatch Council, Executive Personnel, or Administrative Personnel in danger.*
-
-*ii) The command given will put a member of the Department of Operations in danger.*
-
-*iii) The command given will result in loss of QLRC Information or Personnel.*
-
-*b) Operations Personnel may override rules stated in this document, given that the rule being overridden will not cause direct harm to QLRC, its current operational status, or a member of the Overwatch Council.*
-
-2) TERMINATING CORPORATION PERSONNEL
-
-*a) Operations Personnel may terminate any Corporation Personnel below CL-X, given their lives are in danger as a result of said Corporation Personnel.*
-
-## Section 4: Department of Research
-
-1) TESTING GUIDELINES
-
-*a) All testing must be logical and not require large amounts of QLRC resources.*
-
-*b) All testing must not result in death of Corporation Personnel*
-
-*c) Executive Personnel, Regulations Personnel, Administrative Personnel, and Operations Personnel reserve the right to question any Research Personnel regarding a test.*
-
-*i) Research Personnel are required to answer truthfully to the best of their ability.*
-
-2) TEST SPECTATING
-
-*a) Corporation Personnel ranking CL-1 and above are allowed to request to spectate a test.
-
-*i) Corporation Personnel ranking CL-4 may spectate a test without requesting permission, unless said test is located in Sector 4.
-
-*ii) Corporation Personnel ranking CL-5 and above or Administrative Personnel may spectate any test without requesting permission for any sector.
-
-3) RETURNING RESEARCH SUBJECTS
-
-*a) All non-affected Research Subjects in the test can not be terminated by Security Personnel, and must be returned to the Research Subject Housing after the test is concluded.*
-
-## Section 5: Regulations Department
-
-1) ACTIVE CASES
-
-*a) Regulations Personnel may not falsify, make up, or otherwise lie about evidence provided to them regarding an active case.*
-
-*b) Regulations Personnel may not give information about an active case, including witnesses or details, to any personnel below CL-O or other Regulations Personnel without proper access.*
-
-2) DETAIN ON SIGHT
-
-*a) Regulations Personnel ranking "Regulations Supervisor" and higher reserve the right to declare Corporation Personnel as "Detain on Sight."*
-
-*i) Operations Personnel, Administrative/Executive Personnel, and members of the Overwatch Council can not be declared Detain on Sight, except by order of the Overwatch Council.*
-
-*ii) Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.*
-
-*iii) Regulations Personnel can not be declared Detain on Sight, except by order of the Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.*
-
-## Section 6: Department of Administration
-
-1) ADMINISTRATIVE AUTHORITY
-
-*a) Administrative Personnel are excluded from all subsections in Article 3.*
-
-*i) Branch Personnel are not included as Administrative Personnel.*
-
-*ii) Legislative Personnel are not included as Administrative Personnel.*
-
-
-
-# Article 4: Codes and Protocols
-
-## Section 1: Codes
-
-1) CODE ORANGE
-
-*a) During Code Orange, personnel are to continue normal duties and report any suspicious activity. Security Personnel are to sweep the site and terminate any hostile threat.*
-
-2) CODE RED
-
-*a) During Code Red, all personnel are to report to the Breach Shelter and await further instruction. Read Section 3 for more information.*
-
-3) CODE BLACK
-
-*a) Full Site lockdown. All personnel are to report to the breach shelter and await further instruction.*
-
-## Section 2: Protocols
-
-1) PROTOCOL GREENSCREEN
-
-*a) Site operations are to continue as normal.*
-
-2) PROTOCOL SHARP BLADE
-
-*a) Active Research Subject riot, Non-Combative Personnel are to exit the Research Subject Housing area until Protocol Sharp Blade is deactivated.*
-
-3) PROTOCOL GUNFIGHT
-
-*a) Active hostile raid. All Non-Combative Personnel are to report to the Breach Shelter and await further instruction.*
-
-4) NUCLEAR DETONATION
-
-*a) Full site lockdown. All personnel are to report to the Nuclear Shelter and await further instruction. Read Section 4 for more information.*
-
-## Section 3: Breach Protocol
-
-In the event of a containment breach, Code Red will be declared. All personnel are to report to the breach shelter and await further instruction.  
-The breach shelter will be sealed after 90 seconds (announced in radio as 90 60 30 Closed). Personnel unable to make it to the breach shelter are expected to remain in their spawn unless told otherwise by a member of the Biohazard Containment Unit or Executive Personnel.  
-The breach shelter will not be opened unless ordered by a member of the Biohazard Containment Unit or Executive Personnel.  
-The only personnel excempt from these rules are Operations Personnel, Executive Personnel, and members of the Biohazard Containment Unit.
-
-## Section 4: Nuclear Detonation
-
-In the event the Nuclear Warhead is detonated, all personnel are to report to the nuclear shelter. Personnel are expected to follow any orders given to them by Security Personnel.  
-The nuclear shelter will close automatically approximately 15 seconds before The Nuclear Warhead detonates (approx. 120 seconds after initial detonation announcement).
-
-
-
-
-# Article 5: Closing Statement
-
-## Section 1: Additional Information
-
-For any questions or concerns regarding the regulations stated in this document, contact a member of the Department of Administration Legislative Branch stating your inquiry.
-
-## Section 2: Changing the QLRC Articles
-
-Any Corporation Personnel may request a change to the QLRC Articles, without facing punishment for the suggestion.
-
-In voting to change any rule stated in this document, The Administrator falls under the same authority as members of the Overwatch Council, unless explicitly required to overthrow authority.
-
-Changing sections stated in Article 2 require majority approval by Legislative Personnel or at least 3 Personnel listed below.
-
-Rules stated under Article 3 require 1 approval from all related department directorates.
-
-Changing sections stated in Article 4 require a majority approval from Legislative Personnel.
-
-By majority approval of the Overwatch Council, any section and/or subsection may be changed.
-
-## Section 2: Signatures and Approval
-
-- **MrPotatOfficial**, The Administrator
-
-- **(Pending)**, Operations Commandant, Department of Operations
-- **(Pending)**, Regulations Overwatch, Regulations Department
-- **(Pending)**, Security Overwatch, Department of Security
-- **(Pending)**, Research Overwatch, Department of Research
-- **(Pending)**, Engineering Overwatch, Department of Engineering
-
-- **(Pending)**, Chief of Administration, Department of Administration
-- **(Pending)**, Facility Director, Department of Administration
-
-- **(Pending)**, Operations Director, Department of Operations
-- **(Pending)**, Executive Agent, Department of Operations
-
-- **(Pending)**, Regulations Director, Regulations Department
-- **(Pending)**, Executive Director, Regulations Department
-- **(Pending)**, Chief Legislator, Regulations Department
-
-- **(Pending)**, Security Director, Department of Security
-- **(Pending)**, Security Commander, Department of Security
-
--  **(Pending)**, Director, Department of Research
--  **(Pending)**, Executive Director, Department of Research
-
--  **(Pending)**, Director, Department of Engineering
--  **(Pending)**, Executive Director, Department of Engineering
+**2.2.a.vi)** 
