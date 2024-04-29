@@ -334,6 +334,10 @@ Administrative Personnel → Operations Personnel → Regulations Personnel → 
 #### 6.1) ADMINISTRATIVE EXEMPTIONS
 Listed below are the rules and regulations that Administrative Personnel are exempt from. These rules do not apply to, and can not be put in effect on, Administrative Personnel.
 
+It is important to note that Branch Personnel and Executive Personnel are **not** considered Administrative Personnel
+
+---
+
 Article 2 	    *(1.1.a)	Maturity*  
 Article 2		*(1.2)	    Impersonation*  
 Article 2		*(2.1)	    Trespassing*  
