@@ -329,6 +329,26 @@ Administrative Personnel → Operations Personnel → Regulations Personnel → 
 
 ---
 
+## Section 6: Department of Administration
+
+#### 6.1) ADMINISTRATIVE EXEMPTIONS
+Listed below are the rules and regulations that Administrative Personnel are exempt from. These rules do not apply to, and can not be put in effect on, Administrative Personnel.
+
+Article 2 	    *(1.1.a)	Maturity*  
+Article 2		*(1.2)	    Impersonation*  
+Article 2		*(2.1)	    Trespassing*  
+Article 2		*(2.2)	    Entity Interactions*  
+Article 2		*(2.3)	    Dress Code*  
+Article 2		*(2.4)	    Kill on Sight Designation*  
+Article 3		*(1.2)	    Spectating Tests*  
+Article 3		*(2.1)	    Termination of Corporation Personnel*  
+Article 3		*(3.2)	    Termination of Corporation Personnel*  
+Article 3		*(3.3)	    Kill on Sight Designation*  
+Article 3		*(5.1.b)	Active Case Restrictions*  
+Article 3		*(5.2)	    Detain on Sight Designation*
+
+---
+
 # Article 4: Codes and Protocols
 
 ---
