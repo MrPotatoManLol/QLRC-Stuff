@@ -1,6 +1,8 @@
 # Article 1: General Information
 > The following document was created by The Administrator and the Overwatch Council as a method of enforcing the rules and regulations created by the Overwatch Council, and to regulate any personnel of ranking CL - 0 or above, with the exception of members ranking CL-X.
 
+---
+
 ## Section 1: Definitions
 
 **Overwatch Council:** A group of people holding the highest ranking classification within QLRC, CL-X
@@ -64,7 +66,6 @@
 
 **2.3.e)** Department of Security Personnel ranking *"Security Supervisor"* to *"Security Captain"*
 
-
 #### 2.4) DIRECTORATE RANKS IN EACH DEPARTMENT
 **2.4.a)** Department of Operations Personnel ranking *"Operations Director"*
 
@@ -79,7 +80,7 @@
 #### 2.5) DEPARTMENTAL GUIDELINES
 **2.5.a)** Departmental Personnel are exempt from certain Articles stated in this document in order to carry out departmental duties stated in said departments guidelines.
 
-
+---
 
 # Article 2: Conduct
 >Any rule stated within this article is to be followed at all times by all personnel applicable to the QLRC Articles from the time said personnel joined QLRC to the time they leave QLRC.
@@ -213,8 +214,6 @@ Administrative Personnel → Operations Personnel → Regulations Personnel → 
 
 # Article 3: Specific Regulations
 
----
-
 ## Section 1: General Regulations
 
 #### 1.1) RESEARCH SUBJECTS
@@ -245,16 +244,167 @@ Administrative Personnel → Operations Personnel → Regulations Personnel → 
 **2.1.a.iv)** Said personnel is designated “Kill on Sight” by Article 2, Section 2, Sub-Section 4.
 
 #### 2.2) RESEARCH SUBJECT TERMINATION CRITERIA
-**2.2.a)** 
+**2.2.a)** Research Subjects may be terminated if any one of the following conditions are met:
 
-**2.2.a.i)** 
+**2.2.a.i)** Said subject has access to use or retrieve contraband.
 
-**2.2.a.ii)** 
+**2.2.a.ii)** Said subject attempts to escape.
 
-**2.2.a.iii)** 
+**2.2.a.iii)** Said subject attempts to breach an entity during a test.
 
-**2.2.a.iv)** 
+**2.2.a.iv)** Said subject ignores orders given by the host of a test.
 
-**2.2.a.v)** 
+**2.2.a.v)** Said subject crosses the line located in RSHZ.
 
-**2.2.a.vi)** 
+**2.2.a.vi)** Said subject is “robanging."
+
+---
+
+## Section 3: Department of Operations
+
+#### 3.1) OVERRIDING REGULATIONS
+**3.1.a)** Operations Personnel may only override departmental commands given to Corporation Personnel given one of the following holds true:
+
+**3.1.a.i)** The command given will put a member of the Overwatch Council Administrative Personnel, or Executive Personnel in danger.
+
+**3.1.a.ii)** The command given will put a member of the Department of Operations in danger.
+
+**3.1.a.iii)** The command given will result in loss of QLRC Information or Personnel.
+
+**3.1.b)** Operations Personnel may override rules stated in this document, given that the rule being overridden will not cause direct harm to QLRC, its current operational status, Administrative Personnel, Executive Personnel, or a member of the Overwatch Council.
+
+#### 3.2) TERMINATION OF CORPORATION PERSONNEL
+**3.2.a)** Operations Personnel may terminate any Corporation Personnel for any reason, given the situation deems termination necessary.
+
+**3.2.a.i)** Executive Personnel, Administrative Personnel, and members of the Overwatch Council are exempt from this rule.
+
+#### 3.3) KILL ON SIGHT DESIGNATION
+**3.3.a)** Operations Personnel are authorized to declare any Corporation Personnel “Kill on Sight” (KoS) within reason.
+
+**3.3.a.i)** Executive Personnel and Administrative Personnel may not be declared KoS except by order of Facility Director(s).
+
+**3.3.a.ii)** Facility Director(s) and members of the Overwatch Council may not be declared KoS except by order of other members of the Overwatch Council.
+
+---
+
+## Section 4: Department of Research
+
+#### 4.1) TESTING GUIDELINES
+**4.1.a)** All testing must be logical and not require large amounts of QLRC resources.
+
+**4.1.b)** All testing must not result in death of Corporation Personnel.
+
+**4.1.c)** Administrative Personnel, Regulations Personnel, and Operations Personnel reserve the right to question any Research Personnel regarding a test.
+
+**4.1.c.i)** Research personnel are required to answer truthfully to the best of their ability.
+
+#### 4.2) RETURNING RESEARCH SUBJECTS
+**4.2.a)** Non-Affected Research Subjects may not be terminated at the end of a test unless said Research Subject meets termination criteria stated in the Testing Information sheet.
+
+**4.2.b)** Uncooperative subjects may be terminated at the request of the test host.
+
+---
+
+## Section 5: Regulations Department
+
+#### 5.1) ACTIVE CASES
+**5.1.a)** Regulations Personnel may not falsify, make up, or otherwise lie about evidence provided to them regarding an active case.
+
+**5.1.b)** Regulations Personnel may not give information about an active case, including witnesses or details, for any reason, to personnel without proper access.
+
+**5.1.b.i)** Executive Personnel may request information regarding an active case, given they have a valid reason to request said information.
+
+**5.1.b.ii)** Operations Personnel and Administrative Personnel may request information regarding an active case, and are not required to give any reasoning for said request.
+
+**5.1.b.iii)** Regulations Personnel reserve the right to deny information to any personnel, excluding Operations Personnel and Administrative Personnel, given the reason for denying the request is valid.
+
+#### 5.2) DETAIN ON SIGHT
+**5.2.a)** Regulations Personnel ranking "Regulations Supervisor" and higher reserve the right to declare Corporation Personnel as "Detain on Sight."
+
+**5.2.a.i)** Operations Personnel, Administrative Personnel, and members of the Overwatch Council can not be declared Detain on Sight, except by order of the Overwatch Council.
+
+**5.2.a.ii)** Executive Personnel can be declared Detain on Sight by Operations Personnel ranking Senior Agent or above, given the Personnel is an active threat to QLRC and its operations.
+
+**5.2.a.iii)** Regulations Personnel can not be declared Detain on Sight, except by order of Regulations Personnel ranking Executive Director or above, Operations Personnel, and the Overwatch Council.
+
+---
+
+# Article 4: Codes and Protocols
+
+---
+
+## Section 1: Codes
+
+#### 1.1) CODE ORANGE
+During Code Orange, personnel are to continue normal duties and report any suspicious activity. Security Personnel are to sweep the site and terminate any hostile threat.
+
+#### 1.1) CODE RED
+During Code Red, all personnel are to report to the Breach Shelter and await further instruction. Read Section 3 for more information.
+
+#### 1.1) CODE BLACK
+Full Site lockdown. All personnel are to report to the breach shelter and await further instruction.
+
+---
+
+## Section 2: Protocols
+
+#### 2.1) PROTOCOL GREENSCREEN
+Site operations are to continue as normal.
+
+#### 2.2) PROTOCOL SHARP BLADE
+Active Research Subject riot, Non-Combative Personnel are to exit the Research Subject Housing area until Protocol Sharp Blade is deactivated.
+
+#### 2.3) PROTOCOL GUNFIGHT
+Active hostile raid. All Non-Combative Personnel are to report to the Breach Shelter and await further instruction.
+
+#### 2.4) NUCLEAR DETONATION
+Full site lockdown. All personnel are to report to the Nuclear Shelter and await further instruction. Read Section 4 for more information.
+
+---
+
+## Section 3: Breach Protocol
+In the event of a containment breach, Code Red will be declared. All personnel are to report to the breach shelter and await further instruction.
+
+The breach shelter will be sealed after 90 seconds (announced in radio as 90 60 30 Closed). Personnel unable to make it to the breach shelter are expected to remain in their spawn unless told otherwise by a member of the Biohazard Containment Unit or Executive Personnel.
+
+The breach shelter will not be opened unless ordered by a member of the Biohazard Containment Unit or Executive Personnel.
+The only personnel excempt from these rules are Operations Personnel, Executive Personnel, and members of the Biohazard Containment Unit.
+
+---
+
+## Section 4: Nuclear Detonation
+In the event the Nuclear Warhead is detonated, all personnel are to report to the nuclear shelter. Personnel are expected to follow any orders given to them by Security Personnel.
+
+The nuclear shelter will close automatically approximately 15 seconds before The Nuclear Warhead detonates (approx. 120 seconds after initial detonation announcement).
+
+---
+
+# Closing Statements
+
+>For any questions or concerns regarding the regulations stated in this document, contact a member of the Regulations Department Legislative Branch stating your inquiry.
+
+---
+
+## Signatures and Approval
+**MrPotatOfficial**, The Administrator
+
+**(Pending)**, Operations Commandant, Department of Operations  
+**(Pending)**, Regulations Overwatch, Regulations Department  
+**(Pending)**, Security Overwatch, Department of Security  
+**(Pending)**, Research Overwatch, Department of Research  
+**(Pending)**, Engineering Overwatch, Department of Engineering  
+
+**(Pending)**, Operations Director, Department of Operations  
+**(Pending)**, Executive Agent, Department of Operations  
+
+**(Pending)**, Regulations Director, Regulations Department  
+**(Pending)**, Executive Director, Regulations Department  
+
+**(Pending)**, Security Director, Department of Security  
+**(Pending)**, Security Commander, Department of Security  
+
+**(Pending)**, Director, Department of Research  
+**(Pending)**, Executive Director, Department of Research  
+
+**(Pending)**, Director, Department of Engineering  
+**(Pending)**, Executive Director, Department of Research  
