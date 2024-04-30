@@ -18,11 +18,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Informant | **LR** |
-| Entry Agent | **LR** |
-| Field Agent | **MR** |
-| Special Agent | **MR** |
-| Head Agent | **HR** |
-| Supervisor | **HR** |
-| Intelligence Command | **HiCom** |
-| Intelligence Director | **HiCom** |
+| Informant | **LowCom** |
+| Entry Agent | **LowCom** |
+| Field Agent | **MedCom** |
+| Special Agent | **MedCom** |
+| Head Agent | **HiCom** |
+| Supervising Agent | **HiCom** |
+| Intelligence Command | **Directorate** |
+| Intelligence Director | **Directorate** |

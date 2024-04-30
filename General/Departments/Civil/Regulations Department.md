@@ -29,11 +29,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Trainee Regulations Official | **LR** |
-| Junior Regulations Official | **MR** |
-| Regulations Official | **MR** |
-| Senior Regulations Official | **MR** |
-| Regulations Supervisor | **HR** |
+| Trainee Regulations Official | **LowCom** |
+| Junior Regulations Official | **LowCom** |
+| Regulations Official | **MedCom** |
+| Senior Regulations Official | **MedCom** |
+| Regulations Supervisor | **HiCom** |
 | Head Regulator | **HiCom** |
 | Regulations Management | **HiCom** |
 | Executive Director| **Directorate** |

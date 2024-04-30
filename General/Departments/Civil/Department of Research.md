@@ -31,12 +31,12 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Intern | **LR** |
-| Trainee Researcher | **LR** |
-| Junior Researcher | **MR** |
-| Researcher | **MR** |
-| Expert Researcher | **MR** |
-| Senior Researcher | **HR** |
+| Intern | **LowCom** |
+| Trainee Researcher | **LowCom** |
+| Junior Researcher | **LowCom** |
+| Researcher | **MedCom** |
+| Expert Researcher | **MedCom** |
+| Senior Researcher | **HiCom** |
 | Head Researcher | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |

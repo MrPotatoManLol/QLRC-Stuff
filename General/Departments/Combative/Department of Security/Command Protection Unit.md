@@ -31,11 +31,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Recruit | **LR** |
-| Junior Guardian | **MR** |
-| Guardian | **MR** |
-| Elite Guardian | **HR** |
-| Protector | **HR** |
+| Recruit | **LowCom** |
+| Junior Guardian | **LowCom** |
+| Guardian | **MedCom** |
+| Elite Guardian | **MedCom** |
+| Protector | **HiCom** |
 | Supervisor | **HiCom** |
-| Executive Director | **HiCom** |
-| Director | **HiCom** |
+| Executive Director | **Directorate** |
+| Director | **Directorate** |

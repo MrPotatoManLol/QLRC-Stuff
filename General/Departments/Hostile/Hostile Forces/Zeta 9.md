@@ -31,13 +31,13 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Recruit | **[A-1] LR** |
-| Mercenary | **[A-2] LR** |
-| Junior Contractor | **[A-3] MR** |
-| Contractor | **[A-4] MR** |
-| Junior Insurgent | **[A-5] MR** |
-| Insurgent | **[A-6] MR** |
-| Senior Insurgent | **[A-7] HR** |
-| Force Manager | **[N-1] HiCom** |
-| Force Commander | **[N-2] Directorate** |
+| Recruit | **[A-1] LowCom** |
+| Mercenary | **[A-2] LowCom** |
+| Junior Contractor | **[A-3] MedCom** |
+| Contractor | **[A-4] MedCom** |
+| Junior Insurgent | **[A-5] MedCom** |
+| Insurgent | **[N-1] HiCom** |
+| Senior Insurgent | **[N-2] HiCom** |
+| Force Manager | **[O-1] Directorate** |
+| Force Commander | **[O-2] Directorate** |
 | Hostile Manager | **Manager** |

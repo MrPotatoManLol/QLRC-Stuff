@@ -18,11 +18,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Intern | **LR** |
-| Junior Advisor | **MR** |
-| Advisor | **MR** |
-| Senior Advisor | **MR** |
-| Ambassador | **HR** |
-| Secretary | **HR** |
+| Intern | **LowCom** |
+| Junior Advisor | **MedCom** |
+| Advisor | **MedCom** |
+| Senior Advisor | **MedCom** |
+| Ambassador | **MedCom** |
+| Secretary | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |

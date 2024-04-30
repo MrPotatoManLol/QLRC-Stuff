@@ -32,11 +32,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Cadet | **LR** |
-| Junior Guard | **MR** |
-| Guard | **MR** |
-| Senior Guard | **MR** |
-| Master Guard | **HR** |
+| Cadet | **LowCom** |
+| Junior Guard | **LowCom** |
+| Guard | **MedCom** |
+| Senior Guard | **MedCom** |
+| Master Guard | **MedCom** |
 | Security Supervisor | **HiCom** |
 | Security Captain | **HiCom** |
 | Security Commander | **Directorate** |

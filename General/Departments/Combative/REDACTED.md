@@ -17,11 +17,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Entry Operative | **LR** |
-| Junior Operative | **MR** |
-| Field Operative | **MR** |
-| Senior Operative | **MR** |
-| Elite Operative | **HR** |
+| Entry Operative | **LowCom** |
+| Junior Operative | **LowCom** |
+| Field Operative | **MedCom** |
+| Senior Operative | **MedCom** |
+| Elite Operative | **HiCom** |
 | Head Operative | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |

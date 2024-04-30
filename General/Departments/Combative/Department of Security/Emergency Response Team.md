@@ -31,12 +31,12 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Recruit | **[RCT] LR** |
-| Private First Class | **[PVT] LR** |
-| Specialist | **[SPL] MR** |
-| Corporal | **[CPL] MR** |
-| Sergeant | **[SGT] HR** |
-| Master Sergeant | **[MSGT] HR** |
+| Recruit | **[RCT] LowCom** |
+| Private First Class | **[PVT] LowCom** |
+| Specialist | **[SPL] MedCom** |
+| Corporal | **[CPL] MedCom** |
+| Sergeant | **[SGT] MedCom** |
+| Master Sergeant | **[MSGT] HiCom** |
 | Lieutenant | **[LT] HiCom** |
-| Task Force Leader | **[TFL] HiCom** |
-| Task Force Director | **[TFD] HiCom** |
+| Task Force Leader | **[TFL] Directorate** |
+| Task Force Director | **[TFD] Directorate** |

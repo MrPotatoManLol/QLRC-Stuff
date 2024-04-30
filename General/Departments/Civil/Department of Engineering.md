@@ -29,12 +29,12 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Apprentice | **LR** |
-| Junior Engineer | **MR** |
-| Engineer | **MR** |
-| Senior Engineer | **MR** |
-| Technician | **HR** |
-| Senior Technician | **HR** |
+| Apprentice | **LowCom** |
+| Technician | **LowCom** |
+| Senior Technician | **MedCom** |
+| Junior Engineer | **MedCom** |
+| Engineer | **MedCom** |
+| Senior Engineer | **HiCom** |
 | Head Engineer | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |

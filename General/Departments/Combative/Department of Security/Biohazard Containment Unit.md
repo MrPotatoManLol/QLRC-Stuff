@@ -30,11 +30,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Containment Recruit | **LR** |
-| Junior Containment Specialist | **MR** |
-| Containment Specialist | **MR** |
-| Experienced Containment Specialist | **HR** |
-| Senior Containment Specialist | **HR** |
+| Containment Recruit | **LowCom** |
+| Junior Containment Specialist | **LowCom** |
+| Containment Specialist | **MedCom** |
+| Experienced Containment Specialist | **MedCom** |
+| Senior Containment Specialist | **HiCom** |
 | Containment Supervisor | **HiCom** |
-| Containment Manager | **HiCom** |
-| Biohazard Director | **HiCom** |
+| Containment Manager | **Directorate** |
+| Biohazard Director | **Directorate** |

@@ -31,11 +31,11 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Entry Agent | **LR** |
-| Field Agent | **MR** |
-| Special Agent | **MR** |
-| Senior Agent | **MR** |
-| Head Agent | **HR** |
+| Entry Agent | **LowCom** |
+| Field Agent | **MedCom** |
+| Special Agent | **MedCom** |
+| Senior Agent | **MedCom** |
+| Head Agent | **HiCom** |
 | Executive Agent | **HiCom** |
 | Operations Director | **Directorate** |
 | Operations Commandant | **Overwatch** |
