@@ -108,8 +108,6 @@
 
 **1.2.a.iii)** Acting on behalf of a department or individual without specific permission given by the department command or individual.
 
-**1.2.a.iv)** Administrative Personnel are exempt from this rule.
-
 #### 1.3) COOPERATION WITH HOSTILE FORCES
 **1.3.a)** Corporation Personnel are not allowed to cooperate with any group that is hostile to QLRC.
 
@@ -121,9 +119,6 @@
 >Any rule stated within this section is to be followed at all times within any QLRC site. This includes the current site for QLRC, Research Area 7.
 
 ---
-
-#### 2.0) PRE-STATEMENTS
-**2.0.a)** Administrative Personnel and Personnel within the Manufacturing Branch are exempt from rules in this document while on-team and on-site.
 
 #### 2.1) TRESPASSING
 **2.1.a)** Trespassing is defined as: personnel attempting to, or gaining access to a location which said personnel, given their current assigned department, clearance, and department rank, do not have access to.
@@ -275,8 +270,6 @@ Administrative Personnel → Operations Personnel → Regulations Personnel → 
 
 #### 3.2) TERMINATION OF CORPORATION PERSONNEL
 **3.2.a)** Operations Personnel may terminate any Corporation Personnel for any reason, given the situation deems termination necessary.
-
-**3.2.a.i)** Executive Personnel, Administrative Personnel, and members of the Overwatch Council are exempt from this rule.
 
 #### 3.3) KILL ON SIGHT DESIGNATION
 **3.3.a)** Operations Personnel are authorized to declare any Corporation Personnel “Kill on Sight” (KoS) within reason.
