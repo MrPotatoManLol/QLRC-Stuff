@@ -5,13 +5,6 @@
 
 ---
 
-<p align="center">
-  <b>Entity XXX</b> </br>
-  The following document was composed on (MM/DD/XXXX) by order of Dr. ███████. Access to this file is restricted to personnel with clearance level N/A and above. Unpermitted access to this document is prohibited. Violators will be detained and given amnestic treatment.
-</p>
-
----
-
 **<ins>Entity Description</ins>**
 
 **Entity Class:** N/A </br>
