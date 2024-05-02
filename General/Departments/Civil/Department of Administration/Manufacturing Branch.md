@@ -3,7 +3,7 @@
 **Department:** Department of Administration  
 **Division Name:** Manufacturing Branch
 
-**Description:** N/A
+**Description:** The Manufacturing Branch is responsible for the creation and development of QLRC sites and facilities. They specialize in building infrastructure needed to run the sites.
 
 **Join Requirements:** N/A  
 **Join Process:** N/A
