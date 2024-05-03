@@ -20,8 +20,8 @@
 | Entry Operative | **LowCom** |
 | Junior Operative | **LowCom** |
 | Field Operative | **MedCom** |
-| Senior Operative | **MedCom** |
-| Elite Operative | **HiCom** |
+| Elite Operative | **MedCom** |
+| Senior Operative | **HiCom** |
 | Head Operative | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
