@@ -35,8 +35,8 @@
 | Cadet | **LowCom** |
 | Junior Guard | **LowCom** |
 | Guard | **MedCom** |
-| Senior Guard | **MedCom** |
 | Master Guard | **MedCom** |
+| Senior Guard | **MedCom** |
 | Security Supervisor | **HiCom** |
 | Security Captain | **HiCom** |
 | Security Commander | **Directorate** |
