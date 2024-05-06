@@ -15,8 +15,8 @@ CL-3 to CL-5 are reserved for Departmental Personnel, and personnel can not appl
 
 ## Department of Administration
 *Financial Staff* - **Current Class**  
-*Executive Personnel* - **Current Class (Usually CL-3+)**
-*Administrative Staff* - **CL-5**
+*Executive Personnel* - **Current Class (Usually CL-3+)**  
+*Administrative Staff* - **CL-5**  
 *Chief of Staff* - **CL-5**  
 *Facility Director through Chief of Administration* - **CL-O**
 
