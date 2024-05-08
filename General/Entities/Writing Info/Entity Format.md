@@ -1,7 +1,8 @@
 **Quantum Labs Research Corporation** </br>
 **Department of Research** </br>
 **Entity XXX** </br>
-**(Current date in MM/DD/XXXX) - (Current Time in MM:HH:SS) (Timezone)** </br>
+**Created: (Current date in MM/DD/XXXX)** </br>
+**Updated: (Same date as created)** </br>
 
 ---
 
