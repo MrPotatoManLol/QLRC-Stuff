@@ -3,7 +3,7 @@
 **Department:** Department of Securty  
 **Division Name:** Emergency Response Team
 
-**Description:** The Emergency Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Emergency Response Team responds during raids and riots. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
+**Description:** The Emergency Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Emergency Response Team responds during raids and riots, and situations where strong arms is needed. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
 
 > *Pugna pro filiis tuis, et utere fortitudine tua adversus hostes tuos; et illis corruentibus, exulta.*  
 > *(Fight for your children's sake, and use your strength against your enemies. For they will fall before you by the sword)*
