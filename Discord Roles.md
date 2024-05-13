@@ -9,7 +9,7 @@ Supervisor
 ## Staff Tier
 Senior Staff  
 Staff  
-Junior Staff
+Junior Staff  
 Staff in Training
 
 ## Development
