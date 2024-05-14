@@ -2,7 +2,7 @@
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Department of Regulations** | **Staff Only** |  |  |  |
+| **Regulations Department** | **Staff Only** |  |  |  |
 | Trainee Reguations Official |  | **CL-X** | **Jr. Mod** | **N/A** |
 | Junior Regulations Official |  | **CL-X** | **Mod** | **N/A** |
 | Regulations Official |  | **CL-X** | **Sr. Mod** | **N/A** |
