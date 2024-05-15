@@ -37,6 +37,7 @@
 | Researcher | **MedCom** |
 | Expert Researcher | **MedCom** |
 | Senior Researcher | **HiCom** |
+| Inspector | **HiCom** |
 | Head Researcher | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
