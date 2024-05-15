@@ -29,8 +29,8 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Financial Staff | **N/A** |
-| Executive Personnel | **N/A** |
 | Legislative Personnel | **N/A** |
+| Executive Personnel | **N/A** |
 | Administrative Staff | **N/A** |
 | Chief of Staff | **HiCom** | 
 | Chief of Administration | **HiCom** |

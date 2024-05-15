@@ -29,8 +29,8 @@ CL-3 to CL-5 are reserved for Departmental Personnel, and personnel can not appl
 ---
 
 ## Department of Engineering
-*Apprentice through Senior Engineer* - **Current Class**  
-*Technician through Senior Technician* - **CL-3**  
+*Apprentice through Technician* - **Current Class**  
+*Senior Technician through Senior Engineer* - **CL-3**  
 *Head Engineer* - **CL-4**  
 *Executive Director* - **CL-5**  
 *Director* - **CL-O**  
