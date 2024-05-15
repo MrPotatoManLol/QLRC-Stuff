@@ -36,6 +36,7 @@
 | Engineer | **MedCom** |
 | Senior Engineer | **HiCom** |
 | Head Engineer | **HiCom** |
+| Foreman | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
 | Engineering Overwatch | **Overwatch** |
