@@ -7,7 +7,7 @@
 > *The safety of the people shall be the highest law.*
 
 **Join Requirements:** CL-1 or higher (RA-7)  
-**Join Process:** Tryout (RA-7)
+**Join Process:** Application (RA-7)
 
 ---
 
