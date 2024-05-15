@@ -35,6 +35,7 @@
 | Field Agent | **MedCom** |
 | Special Agent | **MedCom** |
 | Senior Agent | **MedCom** |
+| Special Agent In Charge | **HiCom** |
 | Head Agent | **HiCom** |
 | Executive Agent | **HiCom** |
 | Operations Director | **Directorate** |
