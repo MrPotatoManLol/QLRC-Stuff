@@ -33,7 +33,6 @@
 | Junior Regulations Official | **LowCom** |
 | Regulations Official | **MedCom** |
 | Senior Regulations Official | **MedCom** |
-| Regulations Supervisor | **HiCom** |
 | Head Regulator | **HiCom** |
 | Regulations Management | **HiCom** |
 | Executive Director| **Directorate** |
