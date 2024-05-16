@@ -73,7 +73,7 @@
 | Commander |  | **CL-5** | **120000** | **C** |
 | Security Overwatch |  | **CL-O** | **Overwatch Gamepass** | **O-3** |
 |  |  |  |  |  |
-| **Emergency Response Team** | **10000 Credits/700 R$** |  |  |  |
+| **Specialized Response Team** | **10000 Credits/700 R$** |  |  |  |
 | Recruit |  | **CL-3** | **0** | **RCT** |
 | Specialist |  | **CL-3** | **2700** | **SPL** |
 | Corporal |  | **CL-3** | **6000** | **CPL** |
