@@ -4,8 +4,6 @@
 
 **Description:** The Department of Security is responsible for maintaining security around all corporation facilities. The Department of Security is responsible for the security of all of the corporation's sites and their members, protection of high ranking individuals, containment of entities, and combat of any threats to the corporation.
 
-> *The safety of the people shall be the highest law.*
-
 **Join Requirements:** CL-1 or higher (RA-7)  
 **Join Process:** Application (RA-7)
 

@@ -4,9 +4,6 @@
 
 **Description:** The Department of Engineering is responsible for engineering corporation property. This includes logistics, architecture, and manufacturing. The Department of Engineering maintains the overall power and structure of all corporation facilities.
 
-> *Protecting humanity, one site at a time.*
-
-
 **Join Requirements:** CL-1 or higher (RA-7)  
 **Join Process:** Application (RA-7)
 

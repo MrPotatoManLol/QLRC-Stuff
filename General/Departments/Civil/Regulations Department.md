@@ -4,8 +4,6 @@
 
 **Description:** The Regulations Department is responsible for ensuring all corporation personnel are following the rules and regulations set in place by the Corporation Overwatch and departmental HiCom. The Regulations Department enforces all corporation laws and ensures that no personnel hold bias/corruption.
 
-> *With integrity we hold accountability.*
-
 **Join Requirements:** CL-2 or higher (RA-7)  
 **Join Process:** Application/Interview (RA-7)
 

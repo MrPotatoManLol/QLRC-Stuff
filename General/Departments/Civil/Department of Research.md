@@ -4,8 +4,6 @@
 
 **Description:** The Department of Research is responsible for maintaining the wellbeing of all personnel, as well as researching new and undiscovered entities within the corporation. They use Research Subjects to discover the abilities and traits of entities contained by the corporation.
 
-> *The innovation of tomorrow.*
-
 **Join Requirements:** CL-0 or higher (RA-7)  
 **Join Process:** Application (RA-7)
 

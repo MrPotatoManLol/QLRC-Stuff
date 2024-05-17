@@ -4,8 +4,6 @@
 
 **Description:** Zeta 9 is a hostile Group of Interest to the corporation. The group's origin is unknown, however it's speculated around Corporation Personnel that the group formed after the removal of numerous rogue Security HiCom.
 
-> *We were once one of them. Now, we are our own. We strive to reveal the truth hidden behind darkness and lies. We will not stop until the truth is brought to light. Until The Overwatch is overtaken. We will fight until our very last breath, until our last seconds. We do not give up. We work together. We are one. We are Zeta 9.*
-
 **Join Requirements:** CL-0 (RA-7)  
 **Join Process:** Application (RA-7)
 
