@@ -7,7 +7,7 @@
 | 005 | [COMPLETED](./Green/005.md) | GREEN | Sector 2 |
 | 006 | [COMPLETED](./Orange/006.md) | ORANGE | Sector 3 |
 | 007 | [COMPLETED](./Yellow/007.md) | YELLOW | Sector 2 |
-| 008 | INCOMPLETE | RED | Sector 4 |
+| 008 | [COMPLETED](./Red/008.md) | RED | Sector 4 |
 | 009 | INCOMPLETE | YELLOW | Sector 3 |
 | 010 | INCOMPLETE | ORANGE | Sector 3 |
 | 011 | INCOMPLETE | RED | Sector 4 |
