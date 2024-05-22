@@ -30,11 +30,10 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Entry Agent | **LowCom** |
-| Field Agent | **MedCom** |
+| Field Agent | **LowCom** |
 | Special Agent | **MedCom** |
 | Senior Agent | **MedCom** |
 | Special Agent In Charge | **HiCom** |
-| Head Agent | **HiCom** |
-| Executive Agent | **HiCom** |
+| Executive Agent | **Directorate** |
 | Operations Director | **Directorate** |
 | Operations Commandant | **Overwatch** |

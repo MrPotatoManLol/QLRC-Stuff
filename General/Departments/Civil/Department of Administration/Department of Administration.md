@@ -30,8 +30,7 @@
 |:---:|:---:|
 | Financial Staff | **N/A** |
 | Legislative Personnel | **N/A** |
-| Executive Personnel | **N/A** |
-| Administrative Staff | **N/A** |
+| Departmental Command | **N/A** |
 | Chief of Staff | **HiCom** | 
 | Chief of Administration | **HiCom** |
 | Facility Director | **Directorate** |

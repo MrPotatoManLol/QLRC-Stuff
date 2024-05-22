@@ -29,10 +29,9 @@
 |:---:|:---:|
 | Trainee Regulations Official | **LowCom** |
 | Junior Regulations Official | **LowCom** |
-| Regulations Official | **MedCom** |
+| Regulations Official | **LowCom** |
 | Senior Regulations Official | **MedCom** |
 | Head Regulator | **HiCom** |
-| Regulations Management | **HiCom** |
 | Executive Director| **Directorate** |
 | Regulations Director | **Directorate** |
 | Regulations Overwatch | **Overwatch** |

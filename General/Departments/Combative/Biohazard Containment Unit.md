@@ -31,7 +31,6 @@
 | Private | **LowCom** |
 | Specialist | **MedCom** |
 | Sergeant | **MedCom** |
-| Squad Leader | **HiCom** |
 | Captain | **HiCom** |
 | Field Chief | **Directorate** |
 | Unit Director | **Directorate** |

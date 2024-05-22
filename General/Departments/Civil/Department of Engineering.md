@@ -28,10 +28,8 @@
 |:---:|:---:|
 | Apprentice | **LowCom** |
 | Technician | **LowCom** |
-| Senior Technician | **MedCom** |
-| Junior Engineer | **MedCom** |
 | Engineer | **MedCom** |
-| Senior Engineer | **HiCom** |
+| Senior Engineer | **MedCom** |
 | Head Engineer | **HiCom** |
 | Foreman | **HiCom** |
 | Executive Director | **Directorate** |

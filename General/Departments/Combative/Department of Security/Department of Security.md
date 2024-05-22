@@ -32,11 +32,9 @@
 |:---:|:---:|
 | Cadet | **LowCom** |
 | Junior Guard | **LowCom** |
-| Guard | **MedCom** |
+| Guard | **LowCom** |
 | Master Guard | **MedCom** |
-| Senior Guard | **MedCom** |
 | Security Supervisor | **HiCom** |
 | Security Captain | **HiCom** |
-| Security Commander | **Directorate** |
 | Security Director | **Directorate** |
 | Security Overwatch | **Overwatch** |

@@ -19,11 +19,10 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Intern | **LowCom** |
-| Junior Advisor | **MedCom** |
+| Junior Advisor | **LowCom** |
 | Advisor | **MedCom** |
 | Senior Advisor | **MedCom** |
-| Ambassador | **MedCom** |
-| Secretary | **HiCom** |
+| Ambassador | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
 | Diplomatic Overwatch | **Overwatch** |
