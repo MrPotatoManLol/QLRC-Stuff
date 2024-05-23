@@ -31,9 +31,9 @@
 |:---:|:---:|
 | Recruit | **LowCom** |
 | Junior Guardian | **LowCom** |
-| Guardian | **MedCom** |
+| Guardian | **LowCom** |
 | Elite Guardian | **MedCom** |
-| Protector | **HiCom** |
-| Supervisor | **HiCom** |
+| Protector | **MedCom** |
+| Lead Protector | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
