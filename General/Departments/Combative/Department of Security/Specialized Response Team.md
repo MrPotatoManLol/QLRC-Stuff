@@ -3,7 +3,7 @@
 **Department:** Department of Securty  
 **Division Name:** Specialized Response Team
 
-**Description:** The Spe Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Specialized Response Team responds during raids and riots, and situations where strong arms is needed. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
+**Description:** The Specialized Response Team is the corporations military force. Tasked with some of the most dangerous operations, the Specialized Response Team responds during raids and riots, and situations where strong arms is needed. They are highly trained and equiped with heavy weaponry, allowing them to gain control of any situation.
 
 **Join Requirements:** CL-1 or higher **and** member of the Department of Security (RA-7)  
 **Join Process:** Tryout (RA-7)
@@ -28,12 +28,10 @@
 ## Research Area 7
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
-| Recruit | **[RCT] LowCom** |
-| Private First Class | **[PVT] LowCom** |
-| Specialist | **[SPL] MedCom** |
-| Corporal | **[CPL] MedCom** |
-| Sergeant | **[SGT] MedCom** |
-| Master Sergeant | **[MSGT] HiCom** |
+| Private | **[PVT] LowCom** |
+| Specialist | **[SPL] LowCom** |
+| Corporal | **[CPL] LowCom** |
+| Master Sergeant | **[MSGT] MedCom** |
 | Lieutenant | **[LT] HiCom** |
 | Task Force Leader | **[TFL] Directorate** |
 | Task Force Director | **[TFD] Directorate** |
