@@ -2,7 +2,7 @@
 
 **Department Type:** Civil
 
-**Description:** The Department of Operations is a restricted department within the corporation. All operations within the department are performed in secrecy. 
+**Description:** The Intelligence Bureau is a restricted department within the corporation. All operations within the department are performed in secrecy. 
 
 **Join Requirements:** [REDACTED]  
 **Join Process:** [REDACTED]
@@ -21,8 +21,8 @@
 | Head Agent |  | **CL-4** | **33000** | **D-5** |
 | Executive Agent |  | **CL-4** | **50000** | **D-6** |
 | Supervising Agent |  | **CL-5** | **80000** | **S** |
-| Operations Manager |  | **CL-5** | **120000** | **OM** |
-| Director of Operations |  | **CL-O** | **Overwatch Gamepass** | **O-1** |
+| Bureau Manager |  | **CL-5** | **120000** | **OM** |
+| Director of Intelligence |  | **CL-O** | **Overwatch Gamepass** | **O-1** |
 
 ---
 
@@ -35,5 +35,5 @@
 | Senior Agent | **MedCom** |
 | Special Agent In Charge | **HiCom** |
 | Executive Agent | **Directorate** |
-| Operations Director | **Directorate** |
-| Operations Commandant | **Overwatch** |
+| Bureau Director | **Directorate** |
+| Bureau Commandant | **Overwatch** |
