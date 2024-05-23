@@ -2,7 +2,7 @@
 
 **Department Type:** Civil
 
-**Description:** The Department of Engineering is responsible for engineering corporation property. This includes logistics, architecture, and manufacturing. The Department of Engineering maintains the overall power and structure of all corporation facilities.
+**Description:** The Department of Engineering is responsible for engineering corporation property, as well as maintaining the overall power and structure of all corporation facilities. This includes logistics, architecture, and manufacturing.
 
 **Join Requirements:** CL-1 or higher (RA-7)  
 **Join Process:** Application (RA-7)
@@ -30,8 +30,7 @@
 | Technician | **LowCom** |
 | Engineer | **MedCom** |
 | Senior Engineer | **MedCom** |
-| Head Engineer | **HiCom** |
-| Foreman | **HiCom** |
+| Lead Engineer | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
 | Engineering Overwatch | **Overwatch** |
