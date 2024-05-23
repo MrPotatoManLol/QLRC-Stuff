@@ -30,11 +30,10 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Intern | **LowCom** |
-| Trainee Researcher | **LowCom** |
 | Junior Researcher | **LowCom** |
-| Researcher | **MedCom** |
+| Researcher | **LowCom** |
 | Expert Researcher | **MedCom** |
-| Senior Researcher | **HiCom** |
+| Senior Researcher | **MedCom** |
 | Head Researcher | **HiCom** |
 | Executive Director | **Directorate** |
 | Director | **Directorate** |
