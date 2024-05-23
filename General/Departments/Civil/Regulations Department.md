@@ -35,7 +35,3 @@
 | Executive Director| **Directorate** |
 | Regulations Director | **Directorate** |
 | Regulations Overwatch | **Overwatch** |
-
----
-
-**Note:** HiCom within the Regulations Department oversee operations within their specific detachment, whereas Directorate personnel oversee operations within all branches of the Regulations Department.
