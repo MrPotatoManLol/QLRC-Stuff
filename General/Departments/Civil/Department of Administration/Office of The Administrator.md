@@ -2,7 +2,7 @@
 
 **Department Type:** Civil
 
-**Description:** The Office of The Administrator is composed of personnel who serve as The Administrator's personal assistant. 
+**Description:** The Office of The Administrator is composed of personnel who serve as The Administrator's personal assistant. The office is explicitly handpicked, at the discretion of The Administrator.
 
 **Join Requirements:** N/A  
 **Join Process:** Handpicked (RA-7)
