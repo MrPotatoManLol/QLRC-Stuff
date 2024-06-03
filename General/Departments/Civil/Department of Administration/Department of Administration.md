@@ -29,9 +29,8 @@
 | **<ins>Department/Ranks</ins>** | **<ins>Class</ins>** |
 |:---:|:---:|
 | Financial Staff | **N/A** |
-| Legislative Personnel | **N/A** |
+| Legislative Staff | **N/A** |
+| Executive Personnel | **N/A** |
 | Departmental Command | **N/A** |
-| Chief of Staff | **HiCom** | 
-| Chief of Administration | **HiCom** |
-| Facility Director | **Directorate** |
-| The Administrator | **Overwatch** |
+| Facility Director | **N/A** |
+| The Administrator | **N/A** |
