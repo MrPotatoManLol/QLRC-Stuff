@@ -1,4 +1,4 @@
-# Department of Operations
+# Intelligence Bureau
 
 **Department Type:** Civil
 
@@ -13,7 +13,7 @@
 
 | **<ins>Department/Ranks</ins>** | **<ins>Cost</ins>** | **<ins>Class</ins>** | **<ins>XP Required</ins>** | **<ins>Abbr.</ins>** |
 |:---:|:---:|:---:|:---:|:---:|
-| **Department of Operations** | **20000 Credits/800 R$** |  |  |  |
+| **Intelligence Bureau** | **20000 Credits/800 R$** |  |  |  |
 | Entry Agent |  | **CL-3** | **0** | **D-1** |
 | Field Agent |  | **CL-3** | **4300** | **D-2** |
 | Special Agent |  | **CL-3** | **9000** | **D-3** |
